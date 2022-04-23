@@ -1,0 +1,16 @@
+		CREATE TABLE People(
+[Id] INT PRIMARY KEY,
+[Name] NVARCHAR(200) NOT NULL,
+[Picture] VARBINARY(MAX),
+[Height] DECIMAL(3,2),
+[Weight] DECIMAL (5,2),
+[Gender] CHAR(1) NOT NULL,
+[Birthdate] DATETIME2 NOT NULL,
+[Biography] NVARCHAR(MAX),
+CONSTRAINT CK_People_Gender CHECK (Gender='m' OR Gender='f'))
+
+INSERT INTO People(Id,Name,Picture,Height,Weight,Gender,Birthdate,Biography)
+VALUES 
+		(1,'Iwo',NULL,1.70,40,'m','1985/01/17',NULL),
+		(2,'Peter', 01101, 1.88, 87.4, 'm', '1980/06/11', 'Peters Bio'),
+		(3,'Ida', 100001, 1.64, 65.20, 'f', '1985/05/03', 'Idas Bio')
