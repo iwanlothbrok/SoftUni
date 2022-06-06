@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "874d9b43-051b-46d6-a591-b107df8b1bc4": {
+      "ProjectGuid": "874d9b43-051b-46d6-a591-b107df8b1bc4",
+      "DisplayName": "Regular Expressions Lab",
+      "ColorIndex": 0
+    },
+    "57e838d7-263f-41f4-8a6b-caedf58da522": {
+      "ProjectGuid": "57e838d7-263f-41f4-8a6b-caedf58da522",
+      "DisplayName": "01. Match Full Name",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "023e76f6-1362-4dd4-a125-f427569dcabd": {
+      "ProjectGuid": "023e76f6-1362-4dd4-a125-f427569dcabd",
+      "DisplayName": "02. Match Phone Number",
+      "ColorIndex": 2
+    },
+    "623668fd-5f14-4c96-9178-8a13d23b0f6f": {
+      "ProjectGuid": "623668fd-5f14-4c96-9178-8a13d23b0f6f",
+      "DisplayName": "3. Match Dates",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

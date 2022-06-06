@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "079ec33d-a776-4624-b026-516eb4414feb": {
+      "ProjectGuid": "079ec33d-a776-4624-b026-516eb4414feb",
+      "DisplayName": "Second Final Exam",
+      "ColorIndex": 0
+    },
+    "634424cb-2ca3-4916-b6d8-23709c952eb0": {
+      "ProjectGuid": "634424cb-2ca3-4916-b6d8-23709c952eb0",
+      "DisplayName": "01. Password Reset",
+      "ColorIndex": 1
+    },
+    "44ac36c8-931d-43cb-ad56-261dac6c82c6": {
+      "ProjectGuid": "44ac36c8-931d-43cb-ad56-261dac6c82c6",
+      "DisplayName": "03. Heroes of Code and Logic VII",
+      "ColorIndex": 2
+    },
+    "e798e8b1-7f01-43b8-8e1b-0e34b386a5b9": {
+      "ProjectGuid": "e798e8b1-7f01-43b8-8e1b-0e34b386a5b9",
+      "DisplayName": "02. Fancy Barcodes",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

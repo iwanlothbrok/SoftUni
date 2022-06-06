@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65411c9f-f956-4e7b-bf7b-3a2bcda74d48": {
+      "ProjectGuid": "65411c9f-f956-4e7b-bf7b-3a2bcda74d48",
+      "DisplayName": "Associative Arrays",
+      "ColorIndex": 0
+    },
+    "b369445e-3224-49b0-a740-2f927b7b0656": {
+      "ProjectGuid": "b369445e-3224-49b0-a740-2f927b7b0656",
+      "DisplayName": "02. Odd Occurrences",
+      "ColorIndex": 1
+    },
+    "ad37fd9b-c8ba-4284-a744-419e311b7d01": {
+      "ProjectGuid": "ad37fd9b-c8ba-4284-a744-419e311b7d01",
+      "DisplayName": "03. Word Synonyms",
+      "ColorIndex": 2
+    },
+    "85c8a0f1-53f8-4875-a2b6-d9a342d66741": {
+      "ProjectGuid": "85c8a0f1-53f8-4875-a2b6-d9a342d66741",
+      "DisplayName": "04. Word Filter",
+      "ColorIndex": 3
+    },
+    "1b504e5d-1618-4249-bc8c-9be0ec898331": {
+      "ProjectGuid": "1b504e5d-1618-4249-bc8c-9be0ec898331",
+      "DisplayName": "01. Count Chars in a String",
+      "ColorIndex": 4
+    },
+    "bef94fc3-7f6e-4fa6-9758-1fcf2463c388": {
+      "ProjectGuid": "bef94fc3-7f6e-4fa6-9758-1fcf2463c388",
+      "DisplayName": "02. A Miner Task",
+      "ColorIndex": 5
+    },
+    "0487d314-9479-4fe7-9818-44246a55835e": {
+      "ProjectGuid": "0487d314-9479-4fe7-9818-44246a55835e",
+      "DisplayName": "04. Orders",
+      "ColorIndex": 6
+    },
+    "b3001659-4135-4142-abe6-7fa5817f676f": {
+      "ProjectGuid": "b3001659-4135-4142-abe6-7fa5817f676f",
+      "DisplayName": "05. SoftUni Parking",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

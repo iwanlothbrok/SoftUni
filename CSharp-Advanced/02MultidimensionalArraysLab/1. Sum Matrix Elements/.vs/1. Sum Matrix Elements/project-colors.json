@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a73862de-42ec-4c80-a35a-dd3d9dab4bcc": {
+      "ProjectGuid": "a73862de-42ec-4c80-a35a-dd3d9dab4bcc",
+      "DisplayName": "1. Sum Matrix Elements",
+      "ColorIndex": 0
+    },
+    "f6cd362b-a632-485b-b9e4-477e3d03ce44": {
+      "ProjectGuid": "f6cd362b-a632-485b-b9e4-477e3d03ce44",
+      "DisplayName": "2. Sum Matrix Columns",
+      "ColorIndex": 1
+    },
+    "6c56bcf0-a1cd-464c-946c-8e649e2744c3": {
+      "ProjectGuid": "6c56bcf0-a1cd-464c-946c-8e649e2744c3",
+      "DisplayName": "3. Primary Diagonal",
+      "ColorIndex": 2
+    },
+    "d49325c5-a484-48f8-8436-fb2b305fe718": {
+      "ProjectGuid": "d49325c5-a484-48f8-8436-fb2b305fe718",
+      "DisplayName": "4. Symbol in Matrix",
+      "ColorIndex": 3
+    },
+    "55eac554-2704-4253-8103-01cf5f799fed": {
+      "ProjectGuid": "55eac554-2704-4253-8103-01cf5f799fed",
+      "DisplayName": "5. Square With Maximum Sum",
+      "ColorIndex": 4
+    },
+    "ed5d827a-5ee7-4435-8d21-dc8e7dabf7b6": {
+      "ProjectGuid": "ed5d827a-5ee7-4435-8d21-dc8e7dabf7b6",
+      "DisplayName": "6. Jagged-Array Modification",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

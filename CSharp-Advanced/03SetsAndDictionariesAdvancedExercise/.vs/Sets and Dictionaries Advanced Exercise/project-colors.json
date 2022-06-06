@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6c3fc1b-fb8a-4a18-b4e0-79f5591caf6b": {
+      "ProjectGuid": "c6c3fc1b-fb8a-4a18-b4e0-79f5591caf6b",
+      "DisplayName": "Sets and Dictionaries Advanced Exercise",
+      "ColorIndex": 0
+    },
+    "ad7ab81c-be28-4e41-85d7-0d894afadf74": {
+      "ProjectGuid": "ad7ab81c-be28-4e41-85d7-0d894afadf74",
+      "DisplayName": "01.Unique Usernames",
+      "ColorIndex": 1
+    },
+    "6f21e191-9eb5-4201-8201-8a0a707402d5": {
+      "ProjectGuid": "6f21e191-9eb5-4201-8201-8a0a707402d5",
+      "DisplayName": "02.Periodic Table",
+      "ColorIndex": 2
+    },
+    "3a638f86-ae64-4004-a8bc-090e546c47dc": {
+      "ProjectGuid": "3a638f86-ae64-4004-a8bc-090e546c47dc",
+      "DisplayName": "03.Count Symbols",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

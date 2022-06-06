@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24526fb7-445f-4290-996f-e99f2a037460": {
+      "ProjectGuid": "24526fb7-445f-4290-996f-e99f2a037460",
+      "DisplayName": "05FunctionalProgrammingLab",
+      "ColorIndex": 0
+    },
+    "eb20f6c9-ff31-443b-b443-c42e45353943": {
+      "ProjectGuid": "eb20f6c9-ff31-443b-b443-c42e45353943",
+      "DisplayName": "01.SortEvenNumbers",
+      "ColorIndex": 1
+    },
+    "fda1b1d8-fe21-43f6-9b35-a70ac5582699": {
+      "ProjectGuid": "fda1b1d8-fe21-43f6-9b35-a70ac5582699",
+      "DisplayName": "02.SumNumbers",
+      "ColorIndex": 2
+    },
+    "fd720aa4-5480-4733-b1a6-8c9d2833ea62": {
+      "ProjectGuid": "fd720aa4-5480-4733-b1a6-8c9d2833ea62",
+      "DisplayName": "03.CountUppercaseWords",
+      "ColorIndex": 3
+    },
+    "16432f80-0628-4ca2-adc6-1a23b9d074d6": {
+      "ProjectGuid": "16432f80-0628-4ca2-adc6-1a23b9d074d6",
+      "DisplayName": "04.AddVAT",
+      "ColorIndex": 4
+    },
+    "34330c99-a576-4d98-b391-0abceb097c0a": {
+      "ProjectGuid": "34330c99-a576-4d98-b391-0abceb097c0a",
+      "DisplayName": "05.FilterByAge",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

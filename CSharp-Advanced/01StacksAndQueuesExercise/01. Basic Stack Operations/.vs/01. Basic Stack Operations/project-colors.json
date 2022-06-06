@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "416cba55-087d-4ff7-9664-053f1bc8f9e0": {
+      "ProjectGuid": "416cba55-087d-4ff7-9664-053f1bc8f9e0",
+      "DisplayName": "01. Basic Stack Operations",
+      "ColorIndex": 0
+    },
+    "0df8424b-a184-4f35-adf7-545f3e5b1d97": {
+      "ProjectGuid": "0df8424b-a184-4f35-adf7-545f3e5b1d97",
+      "DisplayName": "02. Basic Queue Operations",
+      "ColorIndex": 1
+    },
+    "8b37d3e3-89d9-4770-8ca2-25b6370197a3": {
+      "ProjectGuid": "8b37d3e3-89d9-4770-8ca2-25b6370197a3",
+      "DisplayName": "03. Maximum and Minimum Element",
+      "ColorIndex": 2
+    },
+    "0b397a31-07b0-46a5-be57-91b41c916347": {
+      "ProjectGuid": "0b397a31-07b0-46a5-be57-91b41c916347",
+      "DisplayName": "04. Fast Food",
+      "ColorIndex": 3
+    },
+    "926ea66b-ed19-48a8-877b-9ef802d59185": {
+      "ProjectGuid": "926ea66b-ed19-48a8-877b-9ef802d59185",
+      "DisplayName": "05. Fashion Boutique",
+      "ColorIndex": 4
+    },
+    "47ddfc01-91c7-4d27-812d-e9eb04bb0389": {
+      "ProjectGuid": "47ddfc01-91c7-4d27-812d-e9eb04bb0389",
+      "DisplayName": "06. Songs Queue",
+      "ColorIndex": 5
+    },
+    "7d335a1a-4487-4a16-970c-9927d3f033c3": {
+      "ProjectGuid": "7d335a1a-4487-4a16-970c-9927d3f033c3",
+      "DisplayName": "11. Key Revolver",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

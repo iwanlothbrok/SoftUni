@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e20f1d6e-5dfa-4701-bf59-0f77b4855199": {
+      "ProjectGuid": "e20f1d6e-5dfa-4701-bf59-0f77b4855199",
+      "DisplayName": "Mid Exam",
+      "ColorIndex": 0
+    },
+    "64c113e3-7808-4e6c-bebe-4521c0db6d75": {
+      "ProjectGuid": "64c113e3-7808-4e6c-bebe-4521c0db6d75",
+      "DisplayName": "01. Counter-Strike",
+      "ColorIndex": 1
+    },
+    "182df966-f126-4919-a33a-ccbc5263aa20": {
+      "ProjectGuid": "182df966-f126-4919-a33a-ccbc5263aa20",
+      "DisplayName": "02. Shoot for the Win",
+      "ColorIndex": 2
+    },
+    "61086c40-c78a-4a69-8640-ee8b0dfe3aed": {
+      "ProjectGuid": "61086c40-c78a-4a69-8640-ee8b0dfe3aed",
+      "DisplayName": "03. Moving Target",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da9e6b86-4ae0-4450-9b97-f1ed8efa9647": {
+      "ProjectGuid": "da9e6b86-4ae0-4450-9b97-f1ed8efa9647",
+      "DisplayName": "Queues Exercises",
+      "ColorIndex": 0
+    },
+    "2f3a3ebc-6b90-4910-b6c6-2147b0f5b1b2": {
+      "ProjectGuid": "2f3a3ebc-6b90-4910-b6c6-2147b0f5b1b2",
+      "DisplayName": "1. Print Even Numbers",
+      "ColorIndex": 1
+    },
+    "34b3ea17-8731-44dc-83fd-17892b7c7e2f": {
+      "ProjectGuid": "34b3ea17-8731-44dc-83fd-17892b7c7e2f",
+      "DisplayName": "2. Supermarket",
+      "ColorIndex": 2
+    },
+    "e6662868-bbb9-4098-abdf-3adea1b8d5d8": {
+      "ProjectGuid": "e6662868-bbb9-4098-abdf-3adea1b8d5d8",
+      "DisplayName": "3. Traffic Jam",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

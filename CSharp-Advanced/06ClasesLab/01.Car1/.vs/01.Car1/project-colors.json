@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f7b92f4-417e-4d59-ac1f-180c18d78a4f": {
+      "ProjectGuid": "2f7b92f4-417e-4d59-ac1f-180c18d78a4f",
+      "DisplayName": "01.Car1",
+      "ColorIndex": 0
+    },
+    "f3b89238-5f65-43c4-ade5-cbf2bd93fe1b": {
+      "ProjectGuid": "f3b89238-5f65-43c4-ade5-cbf2bd93fe1b",
+      "DisplayName": "02.CarExtension",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

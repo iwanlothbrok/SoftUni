@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc7cc2b2-3272-45d3-83c5-9c108c3215ad": {
+      "ProjectGuid": "bc7cc2b2-3272-45d3-83c5-9c108c3215ad",
+      "DisplayName": "p01DefineAnInterfaceIPerson",
+      "ColorIndex": 0
+    },
+    "1f8a6840-df10-43dd-bd17-8e296912737f": {
+      "ProjectGuid": "1f8a6840-df10-43dd-bd17-8e296912737f",
+      "DisplayName": "p02MultipleImplementation",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2185cb95-193a-4449-96ba-f79b5f46d186": {
+      "ProjectGuid": "2185cb95-193a-4449-96ba-f79b5f46d186",
+      "DisplayName": "p03Telephony",
+      "ColorIndex": 2
+    },
+    "8964bbe8-f34e-41bc-9a79-5c098c7333f6": {
+      "ProjectGuid": "8964bbe8-f34e-41bc-9a79-5c098c7333f6",
+      "DisplayName": "p04BorderControl",
+      "ColorIndex": 3
+    },
+    "e7646c07-d1fd-4c02-9e4e-278e0c2844ee": {
+      "ProjectGuid": "e7646c07-d1fd-4c02-9e4e-278e0c2844ee",
+      "DisplayName": "p05BirthdayCelebrations",
+      "ColorIndex": 4
+    },
+    "0eef583f-8b90-4a46-8807-5a730d506975": {
+      "ProjectGuid": "0eef583f-8b90-4a46-8807-5a730d506975",
+      "DisplayName": "p06FoodShortage",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1a4da4c-ed74-438d-b495-bd36eff6da28": {
+      "ProjectGuid": "b1a4da4c-ed74-438d-b495-bd36eff6da28",
+      "DisplayName": "Shapes",
+      "ColorIndex": 0
+    },
+    "39ff74f6-0af0-4759-bca3-7dfa66d2528a": {
+      "ProjectGuid": "39ff74f6-0af0-4759-bca3-7dfa66d2528a",
+      "DisplayName": "Car",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

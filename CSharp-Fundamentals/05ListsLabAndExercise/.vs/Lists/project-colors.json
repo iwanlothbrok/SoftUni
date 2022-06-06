@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "197348af-f0ed-4a54-bc4d-48145c3b4181": {
+      "ProjectGuid": "197348af-f0ed-4a54-bc4d-48145c3b4181",
+      "DisplayName": "Lists",
+      "ColorIndex": 0
+    },
+    "2b8dd218-083e-4f9f-8bb5-6666da6a2e66": {
+      "ProjectGuid": "2b8dd218-083e-4f9f-8bb5-6666da6a2e66",
+      "DisplayName": "02. Gauss' Trick",
+      "ColorIndex": 1
+    },
+    "e5826dbd-fa69-492f-be69-3f976f4da500": {
+      "ProjectGuid": "e5826dbd-fa69-492f-be69-3f976f4da500",
+      "DisplayName": "04. List of Products",
+      "ColorIndex": 2
+    },
+    "7000dfcd-4f07-401f-b9f7-6fc0cd851c6f": {
+      "ProjectGuid": "7000dfcd-4f07-401f-b9f7-6fc0cd851c6f",
+      "DisplayName": "05. Remove Negatives and Reverse",
+      "ColorIndex": 3
+    },
+    "42951d0d-e593-4f17-bfd0-ab266a6f3606": {
+      "ProjectGuid": "42951d0d-e593-4f17-bfd0-ab266a6f3606",
+      "DisplayName": "01. Train",
+      "ColorIndex": 4
+    },
+    "f5822b03-57bf-4711-99de-39bd9ea565f6": {
+      "ProjectGuid": "f5822b03-57bf-4711-99de-39bd9ea565f6",
+      "DisplayName": "02. Change List",
+      "ColorIndex": 5
+    },
+    "864cf1a9-0398-4a92-895d-b324c5c498e0": {
+      "ProjectGuid": "864cf1a9-0398-4a92-895d-b324c5c498e0",
+      "DisplayName": "03. House Party",
+      "ColorIndex": 6
+    },
+    "b2c92c1a-ad22-438c-85a3-849aeafa1925": {
+      "ProjectGuid": "b2c92c1a-ad22-438c-85a3-849aeafa1925",
+      "DisplayName": "04. List Operations",
+      "ColorIndex": 7
+    },
+    "454958cb-4806-47dd-8367-1e3d2e7604e2": {
+      "ProjectGuid": "454958cb-4806-47dd-8367-1e3d2e7604e2",
+      "DisplayName": "05. Bomb Numbers",
+      "ColorIndex": 8
+    },
+    "c8d41502-326c-4597-b89a-6d781932b53c": {
+      "ProjectGuid": "c8d41502-326c-4597-b89a-6d781932b53c",
+      "DisplayName": "06. Cards Game",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

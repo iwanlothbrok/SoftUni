@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92af536d-aa53-4366-8ba7-f17be6224bcc": {
+      "ProjectGuid": "92af536d-aa53-4366-8ba7-f17be6224bcc",
+      "DisplayName": "p01Bombs",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bbebd797-7fd0-4787-bbce-b036a2d9db56": {
+      "ProjectGuid": "bbebd797-7fd0-4787-bbce-b036a2d9db56",
+      "DisplayName": "p03Parking",
+      "ColorIndex": 1
+    },
+    "c9148eb9-d353-49e2-871d-864bfa3e8148": {
+      "ProjectGuid": "c9148eb9-d353-49e2-871d-864bfa3e8148",
+      "DisplayName": "p02Snake",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "399e3ade-63d0-4253-bd92-efb3987528d4": {
+      "ProjectGuid": "399e3ade-63d0-4253-bd92-efb3987528d4",
+      "DisplayName": "06DefiningClassesExercises",
+      "ColorIndex": 0
+    },
+    "e9208e56-ea69-462c-a1c0-2522aaa84307": {
+      "ProjectGuid": "e9208e56-ea69-462c-a1c0-2522aaa84307",
+      "DisplayName": "p01DefineAClassPerson",
+      "ColorIndex": 1
+    },
+    "826b6413-4f1b-40d2-a694-a221ec2c5dbb": {
+      "ProjectGuid": "826b6413-4f1b-40d2-a694-a221ec2c5dbb",
+      "DisplayName": "p01DefiningClasses",
+      "ColorIndex": 2
+    },
+    "1c72e1ee-0e02-4f52-9daf-a6e70c013500": {
+      "ProjectGuid": "1c72e1ee-0e02-4f52-9daf-a6e70c013500",
+      "DisplayName": "p02DefiningClasses",
+      "ColorIndex": 3
+    },
+    "1acb9546-6e78-4bf4-9f68-5355c80b6d0b": {
+      "ProjectGuid": "1acb9546-6e78-4bf4-9f68-5355c80b6d0b",
+      "DisplayName": "p03OldestFamilyMember",
+      "ColorIndex": 4
+    },
+    "05475f35-d52a-4174-9035-0bbe8a77659f": {
+      "ProjectGuid": "05475f35-d52a-4174-9035-0bbe8a77659f",
+      "DisplayName": "p04OpinionPoll",
+      "ColorIndex": 5
+    },
+    "4d54d7b3-8214-4b12-b814-371bf2b22d6d": {
+      "ProjectGuid": "4d54d7b3-8214-4b12-b814-371bf2b22d6d",
+      "DisplayName": "p05DateModifier",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

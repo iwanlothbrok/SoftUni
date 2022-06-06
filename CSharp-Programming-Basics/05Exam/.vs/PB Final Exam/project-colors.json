@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbc405f0-70ad-481b-a1b9-c057b67f50d1": {
+      "ProjectGuid": "dbc405f0-70ad-481b-a1b9-c057b67f50d1",
+      "DisplayName": "PB Final Exam",
+      "ColorIndex": 0
+    },
+    "bbcc3290-145f-43b7-92c5-21e2d28847fc": {
+      "ProjectGuid": "bbcc3290-145f-43b7-92c5-21e2d28847fc",
+      "DisplayName": "02. Maiden Party",
+      "ColorIndex": 1
+    },
+    "041ea781-8d24-4f17-92f7-78b0c160ee1e": {
+      "ProjectGuid": "041ea781-8d24-4f17-92f7-78b0c160ee1e",
+      "DisplayName": "03. Courier Express",
+      "ColorIndex": 2
+    },
+    "a57364eb-c0b7-4780-b26c-e8b50510c2eb": {
+      "ProjectGuid": "a57364eb-c0b7-4780-b26c-e8b50510c2eb",
+      "DisplayName": "04. Workout",
+      "ColorIndex": 3
+    },
+    "79686ad2-0388-4868-8136-d6ee8a41ed47": {
+      "ProjectGuid": "79686ad2-0388-4868-8136-d6ee8a41ed47",
+      "DisplayName": "05. Excursion Sale",
+      "ColorIndex": 4
+    },
+    "a0648831-c154-4da3-9fbc-bce27dc4acfd": {
+      "ProjectGuid": "a0648831-c154-4da3-9fbc-bce27dc4acfd",
+      "DisplayName": "06. Multiply Table",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

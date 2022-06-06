@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1192c97-2a37-4f1d-bc7c-9626af6255ca": {
+      "ProjectGuid": "f1192c97-2a37-4f1d-bc7c-9626af6255ca",
+      "DisplayName": "p05DateModifier",
+      "ColorIndex": 0
+    },
+    "952a33d9-419f-4afe-8a28-8202284cd534": {
+      "ProjectGuid": "952a33d9-419f-4afe-8a28-8202284cd534",
+      "DisplayName": "po06SpeedRacing",
+      "ColorIndex": 1
+    },
+    "6e40a75a-1235-47ee-9e90-853a98edf777": {
+      "ProjectGuid": "6e40a75a-1235-47ee-9e90-853a98edf777",
+      "DisplayName": "po07RawData",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

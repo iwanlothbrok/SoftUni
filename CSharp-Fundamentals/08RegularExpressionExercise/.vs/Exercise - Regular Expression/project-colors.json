@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "796546a3-0063-42f6-b03f-9c616b099c0d": {
+      "ProjectGuid": "796546a3-0063-42f6-b03f-9c616b099c0d",
+      "DisplayName": "Exercise - Regular Expression",
+      "ColorIndex": 0
+    },
+    "0b9e5dba-7c1c-427e-b830-d8cd829d6241": {
+      "ProjectGuid": "0b9e5dba-7c1c-427e-b830-d8cd829d6241",
+      "DisplayName": "01. Furniture",
+      "ColorIndex": 1
+    },
+    "f2a9a624-16d2-41bd-9988-5c39ec6df12f": {
+      "ProjectGuid": "f2a9a624-16d2-41bd-9988-5c39ec6df12f",
+      "DisplayName": "02. SoftUni Bar Income",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

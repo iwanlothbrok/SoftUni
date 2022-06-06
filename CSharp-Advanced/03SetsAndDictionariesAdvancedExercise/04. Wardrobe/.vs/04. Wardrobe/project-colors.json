@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f72d0902-3bc0-4fce-b08e-443202b98de8": {
+      "ProjectGuid": "f72d0902-3bc0-4fce-b08e-443202b98de8",
+      "DisplayName": "04. Wardrobe",
+      "ColorIndex": 0
+    },
+    "0c76bbf3-5194-42b4-a5fb-a20db063c16c": {
+      "ProjectGuid": "0c76bbf3-5194-42b4-a5fb-a20db063c16c",
+      "DisplayName": "08. Ranking",
+      "ColorIndex": 1
+    },
+    "0cadc33f-f3a9-4981-b79a-455d748fe4e3": {
+      "ProjectGuid": "0cadc33f-f3a9-4981-b79a-455d748fe4e3",
+      "DisplayName": "07. The V-Logger",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

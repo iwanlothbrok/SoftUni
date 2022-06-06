@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52b153cc-4b55-46bb-916a-04d9c8ebb110": {
+      "ProjectGuid": "52b153cc-4b55-46bb-916a-04d9c8ebb110",
+      "DisplayName": "05FunctionalProgrammingExercise",
+      "ColorIndex": 0
+    },
+    "dbad96d5-57a9-4cbc-93e2-85072d94daeb": {
+      "ProjectGuid": "dbad96d5-57a9-4cbc-93e2-85072d94daeb",
+      "DisplayName": "01.ActionPrint",
+      "ColorIndex": 1
+    },
+    "4f78b73a-88a4-459a-95ec-13596acebd6b": {
+      "ProjectGuid": "4f78b73a-88a4-459a-95ec-13596acebd6b",
+      "DisplayName": "02.KnightsOfHonor",
+      "ColorIndex": 2
+    },
+    "f376ec01-c744-4858-acef-ebefb4267cc4": {
+      "ProjectGuid": "f376ec01-c744-4858-acef-ebefb4267cc4",
+      "DisplayName": "03.CustomMinFunction",
+      "ColorIndex": 3
+    },
+    "ea00d7f8-84dd-4ccf-919c-e990a441e2cd": {
+      "ProjectGuid": "ea00d7f8-84dd-4ccf-919c-e990a441e2cd",
+      "DisplayName": "04.FindEvensOrOdds",
+      "ColorIndex": 4
+    },
+    "d4bd2a62-9001-4b81-adc5-d7df037cb3c7": {
+      "ProjectGuid": "d4bd2a62-9001-4b81-adc5-d7df037cb3c7",
+      "DisplayName": "05.AppliedArithmetics",
+      "ColorIndex": 5
+    },
+    "c33aa3c1-a64d-4ff4-9d80-20e979fa13bb": {
+      "ProjectGuid": "c33aa3c1-a64d-4ff4-9d80-20e979fa13bb",
+      "DisplayName": "06.ReverseAndExclude",
+      "ColorIndex": 6
+    },
+    "fa582673-5601-4b8c-b3af-9a39f2d8ec91": {
+      "ProjectGuid": "fa582673-5601-4b8c-b3af-9a39f2d8ec91",
+      "DisplayName": "07.PredicateForNames",
+      "ColorIndex": 7
+    },
+    "d8dcc9e6-4acd-4434-974f-63e1a81f4c8d": {
+      "ProjectGuid": "d8dcc9e6-4acd-4434-974f-63e1a81f4c8d",
+      "DisplayName": "08.CustomComparator",
+      "ColorIndex": 8
+    },
+    "a6a68d31-806f-41ed-87d3-5e3ab7794054": {
+      "ProjectGuid": "a6a68d31-806f-41ed-87d3-5e3ab7794054",
+      "DisplayName": "09.ListOfPredicates",
+      "ColorIndex": 9
+    },
+    "ffc58fcb-fdec-4786-bb26-0f016d504556": {
+      "ProjectGuid": "ffc58fcb-fdec-4786-bb26-0f016d504556",
+      "DisplayName": "10.PredicateParty",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6738ba9d-dcba-4a3a-b6de-482fd5f10112": {
+      "ProjectGuid": "6738ba9d-dcba-4a3a-b6de-482fd5f10112",
+      "DisplayName": "1. Diagonal Difference",
+      "ColorIndex": 0
+    },
+    "6763cfd6-1f84-47fa-b4a0-57464d66eca5": {
+      "ProjectGuid": "6763cfd6-1f84-47fa-b4a0-57464d66eca5",
+      "DisplayName": "2. Squares in Matrix",
+      "ColorIndex": 1
+    },
+    "ea87131a-ab56-40ad-bd1b-df32022e75de": {
+      "ProjectGuid": "ea87131a-ab56-40ad-bd1b-df32022e75de",
+      "DisplayName": "4. Matrix Shuffling",
+      "ColorIndex": 2
+    },
+    "a9db4369-47af-4755-8e59-635433978d63": {
+      "ProjectGuid": "a9db4369-47af-4755-8e59-635433978d63",
+      "DisplayName": "6. Jagged Array Manipulator",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

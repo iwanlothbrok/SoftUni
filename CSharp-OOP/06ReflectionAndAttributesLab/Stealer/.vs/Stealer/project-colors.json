@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14d51dfc-4c8a-47e4-b899-495d039bf622": {
+      "ProjectGuid": "14d51dfc-4c8a-47e4-b899-495d039bf622",
+      "DisplayName": "Stealer",
+      "ColorIndex": 0
+    },
+    "59ecd882-790d-4150-a5ca-e0b8702fded2": {
+      "ProjectGuid": "59ecd882-790d-4150-a5ca-e0b8702fded2",
+      "DisplayName": "AuthorProblem",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

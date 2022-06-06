@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90a118b1-e2a6-4cd9-a1e1-352d8b7d2671": {
+      "ProjectGuid": "90a118b1-e2a6-4cd9-a1e1-352d8b7d2671",
+      "DisplayName": "Arrays",
+      "ColorIndex": 0
+    },
+    "74a83aae-8bd8-40e3-bd8e-e456adbb7110": {
+      "ProjectGuid": "74a83aae-8bd8-40e3-bd8e-e456adbb7110",
+      "DisplayName": "01. Day of Week",
+      "ColorIndex": 1
+    },
+    "14ddb737-dec3-4246-8b96-8b8f76305f6c": {
+      "ProjectGuid": "14ddb737-dec3-4246-8b96-8b8f76305f6c",
+      "DisplayName": "02. Print Numbers in Reverse Order",
+      "ColorIndex": 2
+    },
+    "287fb9b1-f093-4bb1-81b9-7b39a4cf25a7": {
+      "ProjectGuid": "287fb9b1-f093-4bb1-81b9-7b39a4cf25a7",
+      "DisplayName": "03. Sum Even Numbers",
+      "ColorIndex": 3
+    },
+    "fec1d495-1a0c-4522-bbc3-e20ced6f455a": {
+      "ProjectGuid": "fec1d495-1a0c-4522-bbc3-e20ced6f455a",
+      "DisplayName": "04. Even and Odd Subtraction",
+      "ColorIndex": 4
+    },
+    "1ab47e9f-b10e-44f3-9c79-ba48b706bbfc": {
+      "ProjectGuid": "1ab47e9f-b10e-44f3-9c79-ba48b706bbfc",
+      "DisplayName": "05. Train",
+      "ColorIndex": 5
+    },
+    "05af16c8-49c9-4e04-8dd7-98579bd82f0d": {
+      "ProjectGuid": "05af16c8-49c9-4e04-8dd7-98579bd82f0d",
+      "DisplayName": "06. Common Elements",
+      "ColorIndex": 6
+    },
+    "9b64b6d8-9d4e-455d-bb1a-f587e387f74f": {
+      "ProjectGuid": "9b64b6d8-9d4e-455d-bb1a-f587e387f74f",
+      "DisplayName": "07. Zig-Zag Arrays",
+      "ColorIndex": 7
+    },
+    "660ec0d5-3893-4cf1-aa70-35cb40ad2735": {
+      "ProjectGuid": "660ec0d5-3893-4cf1-aa70-35cb40ad2735",
+      "DisplayName": "08. Top Integers",
+      "ColorIndex": 8
+    },
+    "e092f23e-5909-49ea-acfc-6d1cb7ae3c94": {
+      "ProjectGuid": "e092f23e-5909-49ea-acfc-6d1cb7ae3c94",
+      "DisplayName": "10. Array Rotation",
+      "ColorIndex": 9
+    },
+    "697e0a0a-1a0e-44bb-a10f-b8dea4816b0f": {
+      "ProjectGuid": "697e0a0a-1a0e-44bb-a10f-b8dea4816b0f",
+      "DisplayName": "11. Array Rotation",
+      "ColorIndex": 10
+    },
+    "cea5dd41-242f-423a-8a6a-14bc8eee053a": {
+      "ProjectGuid": "cea5dd41-242f-423a-8a6a-14bc8eee053a",
+      "DisplayName": "12. Equal Sum",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

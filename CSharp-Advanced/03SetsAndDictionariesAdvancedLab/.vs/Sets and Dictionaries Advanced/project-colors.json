@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dae10eb-7fc3-4537-a954-dcc043658582": {
+      "ProjectGuid": "0dae10eb-7fc3-4537-a954-dcc043658582",
+      "DisplayName": "Sets and Dictionaries Advanced",
+      "ColorIndex": 0
+    },
+    "6c7cb3c5-d6dd-40bf-b73e-148432b85add": {
+      "ProjectGuid": "6c7cb3c5-d6dd-40bf-b73e-148432b85add",
+      "DisplayName": "01. Count Same Values in Array",
+      "ColorIndex": 1
+    },
+    "fefcdad4-2087-4671-9d7d-e5ee74ec5c4e": {
+      "ProjectGuid": "fefcdad4-2087-4671-9d7d-e5ee74ec5c4e",
+      "DisplayName": "02. Average Student Grades",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ff248a2a-5d1f-4d75-9ce8-6223395ade68": {
+      "ProjectGuid": "ff248a2a-5d1f-4d75-9ce8-6223395ade68",
+      "DisplayName": "04. Product Shop",
+      "ColorIndex": 3
+    },
+    "6229a006-c9ca-414f-8492-feb0f49a590a": {
+      "ProjectGuid": "6229a006-c9ca-414f-8492-feb0f49a590a",
+      "DisplayName": "06. Record Unique Names",
+      "ColorIndex": 4
+    },
+    "0c88949c-3344-4f0f-9917-2cf613067bdf": {
+      "ProjectGuid": "0c88949c-3344-4f0f-9917-2cf613067bdf",
+      "DisplayName": "07. Parking Lot",
+      "ColorIndex": 5
+    },
+    "2f2cb0ba-1473-4747-8421-d88696804f0c": {
+      "ProjectGuid": "2f2cb0ba-1473-4747-8421-d88696804f0c",
+      "DisplayName": "08. SoftUni Party",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

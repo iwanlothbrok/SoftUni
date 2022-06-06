@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a712db3-9cc3-4c51-a32a-5a62b7c51d11": {
+      "ProjectGuid": "3a712db3-9cc3-4c51-a32a-5a62b7c51d11",
+      "DisplayName": "Methods",
+      "ColorIndex": 0
+    },
+    "a9ef9899-d970-4f2e-b53a-7854ee2cbce3": {
+      "ProjectGuid": "a9ef9899-d970-4f2e-b53a-7854ee2cbce3",
+      "DisplayName": "01. Sign of Integer Numbers",
+      "ColorIndex": 1
+    },
+    "3089d943-1c73-421a-806c-cfa9a6fbce34": {
+      "ProjectGuid": "3089d943-1c73-421a-806c-cfa9a6fbce34",
+      "DisplayName": "02. Grades",
+      "ColorIndex": 2
+    },
+    "28164d1b-2d61-4106-9a90-eb55a1002d08": {
+      "ProjectGuid": "28164d1b-2d61-4106-9a90-eb55a1002d08",
+      "DisplayName": "03. Calculations",
+      "ColorIndex": 3
+    },
+    "dd009e2e-6c2a-4c94-9615-c76aaf86561c": {
+      "ProjectGuid": "dd009e2e-6c2a-4c94-9615-c76aaf86561c",
+      "DisplayName": "04. Printing Triangle",
+      "ColorIndex": 4
+    },
+    "003dc5e4-6dd5-4851-93c5-ee3d5ff6fac5": {
+      "ProjectGuid": "003dc5e4-6dd5-4851-93c5-ee3d5ff6fac5",
+      "DisplayName": "06. Calculate Rectangle Area",
+      "ColorIndex": 5
+    },
+    "6d1d81c8-d8ac-46d8-afe0-45a3147ea8db": {
+      "ProjectGuid": "6d1d81c8-d8ac-46d8-afe0-45a3147ea8db",
+      "DisplayName": "07. Repeat String",
+      "ColorIndex": 6
+    },
+    "3598f00e-764b-4e88-be3f-27f1a1b5b13c": {
+      "ProjectGuid": "3598f00e-764b-4e88-be3f-27f1a1b5b13c",
+      "DisplayName": "08. Math Power",
+      "ColorIndex": 7
+    },
+    "8d7cd61b-207c-4631-9ebe-19b810a06ec9": {
+      "ProjectGuid": "8d7cd61b-207c-4631-9ebe-19b810a06ec9",
+      "DisplayName": "09. Greater of Two Values",
+      "ColorIndex": 8
+    },
+    "23b573a7-6022-464f-9ec1-5c49d2dfc810": {
+      "ProjectGuid": "23b573a7-6022-464f-9ec1-5c49d2dfc810",
+      "DisplayName": "11. Math operations",
+      "ColorIndex": 9
+    },
+    "29415762-3537-4a12-b213-2fe3292d95b3": {
+      "ProjectGuid": "29415762-3537-4a12-b213-2fe3292d95b3",
+      "DisplayName": "05. Add and Subtract",
+      "ColorIndex": 10
+    },
+    "f929d908-556f-477c-be0c-3023e800ef74": {
+      "ProjectGuid": "f929d908-556f-477c-be0c-3023e800ef74",
+      "DisplayName": "06. Middle Characters",
+      "ColorIndex": 11
+    },
+    "26388c6b-cd94-44e1-b15b-780a08a00d0e": {
+      "ProjectGuid": "26388c6b-cd94-44e1-b15b-780a08a00d0e",
+      "DisplayName": "07. NxN Matrix",
+      "ColorIndex": 12
+    },
+    "f32e51cc-65d1-4f3f-ba06-895db5d896fb": {
+      "ProjectGuid": "f32e51cc-65d1-4f3f-ba06-895db5d896fb",
+      "DisplayName": "08. Factorial Division",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}
