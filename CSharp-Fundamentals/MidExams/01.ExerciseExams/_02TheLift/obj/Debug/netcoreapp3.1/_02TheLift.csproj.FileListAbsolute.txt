@@ -1,0 +1,14 @@
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\bin\Debug\netcoreapp3.1\_02TheLift.exe
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\bin\Debug\netcoreapp3.1\_02TheLift.deps.json
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\bin\Debug\netcoreapp3.1\_02TheLift.runtimeconfig.json
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\bin\Debug\netcoreapp3.1\_02TheLift.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\bin\Debug\netcoreapp3.1\_02TheLift.dll
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\bin\Debug\netcoreapp3.1\_02TheLift.pdb
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.AssemblyInfo.cs
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.dll
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.pdb
+C:\Users\cmi\source\repos\_01ComputerStore\_02TheLift\obj\Debug\netcoreapp3.1\_02TheLift.genruntimeconfig.cache

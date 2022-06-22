@@ -1,0 +1,14 @@
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\bin\Debug\netcoreapp3.1\_01ComputerStore.exe
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\bin\Debug\netcoreapp3.1\_01ComputerStore.deps.json
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\bin\Debug\netcoreapp3.1\_01ComputerStore.runtimeconfig.json
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\bin\Debug\netcoreapp3.1\_01ComputerStore.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\bin\Debug\netcoreapp3.1\_01ComputerStore.dll
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\bin\Debug\netcoreapp3.1\_01ComputerStore.pdb
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.AssemblyInfo.cs
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.dll
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.pdb
+C:\Users\cmi\source\repos\_01ComputerStore\_01ComputerStore\obj\Debug\netcoreapp3.1\_01ComputerStore.genruntimeconfig.cache

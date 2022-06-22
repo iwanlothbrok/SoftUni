@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6aba2b5-aad9-45fe-8d71-9482a515e9e3": {
+      "ProjectGuid": "e6aba2b5-aad9-45fe-8d71-9482a515e9e3",
+      "DisplayName": "_01ComputerStore",
+      "ColorIndex": 0
+    },
+    "6bc734c4-8490-4c54-92ae-941c4849d737": {
+      "ProjectGuid": "6bc734c4-8490-4c54-92ae-941c4849d737",
+      "DisplayName": "_02TheLift",
+      "ColorIndex": 1
+    },
+    "28bbe040-1018-4c7b-80f1-872628377b57": {
+      "ProjectGuid": "28bbe040-1018-4c7b-80f1-872628377b57",
+      "DisplayName": "_03MemoryGame",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
