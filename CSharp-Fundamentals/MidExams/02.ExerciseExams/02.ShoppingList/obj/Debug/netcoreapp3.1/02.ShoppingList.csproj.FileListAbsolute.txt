@@ -1,0 +1,14 @@
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.exe
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.deps.json
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.json
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.dev.json
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.dll
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.pdb
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csproj.AssemblyReference.cache
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfo.cs
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.dll
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.pdb
+C:\Users\Iwan's PC\source\repos\01.GuineaPig\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.genruntimeconfig.cache
