@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60ef10d6-ee73-43d1-a312-0583ff7f45c0": {
+      "ProjectGuid": "60ef10d6-ee73-43d1-a312-0583ff7f45c0",
+      "DisplayName": "01.BonusScoringSystem",
+      "ColorIndex": 0
+    },
+    "ac5c9817-d248-4e96-b6e5-34ee143975ad": {
+      "ProjectGuid": "ac5c9817-d248-4e96-b6e5-34ee143975ad",
+      "DisplayName": "02.MuOnline",
+      "ColorIndex": 1
+    },
+    "22f5fe8f-d032-4788-a64d-0eeec23227ab": {
+      "ProjectGuid": "22f5fe8f-d032-4788-a64d-0eeec23227ab",
+      "DisplayName": "03.Inventory",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,13 @@
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.exe
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.deps.json
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.json
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.dll
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.pdb
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfo.cs
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.dll
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.pdb
+C:\Users\cmi\source\repos\01.BonusScoringSystem\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.genruntimeconfig.cache
