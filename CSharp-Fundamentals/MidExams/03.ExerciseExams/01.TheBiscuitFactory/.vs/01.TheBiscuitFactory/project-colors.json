@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a16fdb1f-8526-4d01-9ae3-fcb28fad1456": {
+      "ProjectGuid": "a16fdb1f-8526-4d01-9ae3-fcb28fad1456",
+      "DisplayName": "01.TheBiscuitFactory",
+      "ColorIndex": 0
+    },
+    "509d87e6-e143-418f-a74c-7d51236f057c": {
+      "ProjectGuid": "509d87e6-e143-418f-a74c-7d51236f057c",
+      "DisplayName": "02.TaxCalculator",
+      "ColorIndex": 1
+    },
+    "cb30e3a4-3c16-4572-8df5-47828a228f0f": {
+      "ProjectGuid": "cb30e3a4-3c16-4572-8df5-47828a228f0f",
+      "DisplayName": "03.PhoneShop",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,14 @@
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\bin\Debug\netcoreapp3.1\01.TheBiscuitFactory.exe
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\bin\Debug\netcoreapp3.1\01.TheBiscuitFactory.deps.json
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\bin\Debug\netcoreapp3.1\01.TheBiscuitFactory.runtimeconfig.json
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\bin\Debug\netcoreapp3.1\01.TheBiscuitFactory.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\bin\Debug\netcoreapp3.1\01.TheBiscuitFactory.dll
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\bin\Debug\netcoreapp3.1\01.TheBiscuitFactory.pdb
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.AssemblyInfo.cs
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.dll
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.pdb
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\01.TheBiscuitFactory\obj\Debug\netcoreapp3.1\01.TheBiscuitFactory.genruntimeconfig.cache

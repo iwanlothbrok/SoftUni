@@ -1,0 +1,13 @@
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\bin\Debug\netcoreapp3.1\03.PhoneShop.exe
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\bin\Debug\netcoreapp3.1\03.PhoneShop.deps.json
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\bin\Debug\netcoreapp3.1\03.PhoneShop.runtimeconfig.json
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\bin\Debug\netcoreapp3.1\03.PhoneShop.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\bin\Debug\netcoreapp3.1\03.PhoneShop.dll
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\bin\Debug\netcoreapp3.1\03.PhoneShop.pdb
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\obj\Debug\netcoreapp3.1\03.PhoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\obj\Debug\netcoreapp3.1\03.PhoneShop.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\obj\Debug\netcoreapp3.1\03.PhoneShop.AssemblyInfo.cs
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\obj\Debug\netcoreapp3.1\03.PhoneShop.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\obj\Debug\netcoreapp3.1\03.PhoneShop.dll
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\obj\Debug\netcoreapp3.1\03.PhoneShop.pdb
+C:\Users\cmi\source\repos\01.TheBiscuitFactory\03.PhoneShop\obj\Debug\netcoreapp3.1\03.PhoneShop.genruntimeconfig.cache
