@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81a3c309-45f1-4c40-b89a-8b7db52a3650": {
+      "ProjectGuid": "81a3c309-45f1-4c40-b89a-8b7db52a3650",
+      "DisplayName": "01.BlackFlag",
+      "ColorIndex": 0
+    },
+    "11197095-0368-4c93-8a52-ffd514af70fb": {
+      "ProjectGuid": "11197095-0368-4c93-8a52-ffd514af70fb",
+      "DisplayName": "02.TreasureHunt",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
