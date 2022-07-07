@@ -1,0 +1,14 @@
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\bin\Debug\netcoreapp3.1\BasicWebServer.exe
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\bin\Debug\netcoreapp3.1\BasicWebServer.deps.json
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\bin\Debug\netcoreapp3.1\BasicWebServer.runtimeconfig.json
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\bin\Debug\netcoreapp3.1\BasicWebServer.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\bin\Debug\netcoreapp3.1\BasicWebServer.dll
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\bin\Debug\netcoreapp3.1\BasicWebServer.pdb
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.AssemblyInfo.cs
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.dll
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.pdb
+C:\Users\cmi\source\repos\BasicWebServer\BasicWebServer\obj\Debug\netcoreapp3.1\BasicWebServer.genruntimeconfig.cache
