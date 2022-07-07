@@ -1,0 +1,14 @@
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\bin\Debug\netcoreapp3.1\WebBasicsExercise.exe
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\bin\Debug\netcoreapp3.1\WebBasicsExercise.deps.json
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\bin\Debug\netcoreapp3.1\WebBasicsExercise.runtimeconfig.json
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\bin\Debug\netcoreapp3.1\WebBasicsExercise.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\bin\Debug\netcoreapp3.1\WebBasicsExercise.dll
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\bin\Debug\netcoreapp3.1\WebBasicsExercise.pdb
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.AssemblyInfo.cs
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.dll
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.pdb
+C:\Users\cmi\source\repos\WebBasicsExercise\WebBasicsExercise\obj\Debug\netcoreapp3.1\WebBasicsExercise.genruntimeconfig.cache
