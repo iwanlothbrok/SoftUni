@@ -1,0 +1,15 @@
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.exe
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.deps.json
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.runtimeconfig.json
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.dll
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\bin\Debug\net6.0\ref\02. Emoji Detector.dll
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\bin\Debug\net6.0\02. Emoji Detector.pdb
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.AssemblyInfo.cs
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.dll
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\ref\02. Emoji Detector.dll
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.pdb
+C:\Users\cmi\source\repos\Final Exam\02. Emoji Detector\obj\Debug\net6.0\02. Emoji Detector.genruntimeconfig.cache

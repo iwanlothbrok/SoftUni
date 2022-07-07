@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "303e3a01-a6bd-4f4c-a6ca-ca1bdf2b0bfe": {
+      "ProjectGuid": "303e3a01-a6bd-4f4c-a6ca-ca1bdf2b0bfe",
+      "DisplayName": "Final Exam",
+      "ColorIndex": 0
+    },
+    "7b12d0e8-0f23-46f9-90aa-8cb8b7120519": {
+      "ProjectGuid": "7b12d0e8-0f23-46f9-90aa-8cb8b7120519",
+      "DisplayName": "01. Activation Keys",
+      "ColorIndex": 1
+    },
+    "5788e689-1224-4f0e-8fcb-2e613454d18e": {
+      "ProjectGuid": "5788e689-1224-4f0e-8fcb-2e613454d18e",
+      "DisplayName": "02. Emoji Detector",
+      "ColorIndex": 2
+    },
+    "fd67f64d-487f-4fd0-986a-5df406f687dd": {
+      "ProjectGuid": "fd67f64d-487f-4fd0-986a-5df406f687dd",
+      "DisplayName": "03. P!rates",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
