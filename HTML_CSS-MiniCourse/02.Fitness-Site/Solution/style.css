@@ -1,0 +1,60 @@
+body{
+    color: gray;
+    font-family: "Helvetica",sans-serif;
+    margin: 0;
+    padding: 2rem 12rem;
+}
+nav ul li a{
+    color: #f9690e;
+    margin: 5px;
+    text-decoration: none;
+    
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+    padding: 0 8;
+}
+nav{
+    text-align: right;
+}
+header> p{
+    float: left;
+    color: #f9690e;
+}
+
+main section:nth-child(1){
+    margin-top: 3rem;
+    background-size: cover;
+    background-position: center;
+    padding: 15rem 15rem;
+    background-image: url("../Requirements-and-Resources/Images/picture.jpg");
+}
+main section:nth-child(1) h1{
+    color: white;
+    margin-left: 80px;
+}
+main section:nth-child(1) span{
+     color: #f9690e;
+}
+main section:nth-child(1) button{
+    font-size: 22px;
+    border: none;
+    color: white;
+    background: #f9690e;
+    padding: 12px;
+    font-weight: bold;
+    margin-left: 40%;
+}
+main section:nth-child(2) article{
+    background-color: #f9690e;
+    color: white;
+    width: 29%;
+    display: inline-block;
+    padding: 27px;
+}
+main section:nth-child(2) article h3{
+    text-align: center;
+}
