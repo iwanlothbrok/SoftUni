@@ -1,0 +1,5 @@
+C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\obj\Release\net6.0\BasicWebServer.Demo.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\obj\Release\net6.0\BasicWebServer.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\obj\Release\net6.0\BasicWebServer.Demo.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\obj\Release\net6.0\BasicWebServer.Demo.AssemblyInfo.cs
+C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\obj\Release\net6.0\BasicWebServer.Demo.csproj.CoreCompileInputs.cache

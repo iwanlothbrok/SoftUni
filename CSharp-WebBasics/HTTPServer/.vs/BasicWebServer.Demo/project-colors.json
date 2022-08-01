@@ -8,14 +8,24 @@
     },
     "0d527de5-478f-4f8f-a18f-c78d730e428b": {
       "ProjectGuid": "0d527de5-478f-4f8f-a18f-c78d730e428b",
-      "DisplayName": "BasicWebServer.Server",
+      "DisplayName": "sad",
       "ColorIndex": 1
     },
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "44d2e86e-6344-4e66-a1a5-10fb6369f884": {
+      "ProjectGuid": "44d2e86e-6344-4e66-a1a5-10fb6369f884",
+      "DisplayName": "BasicWebServer.Servers",
+      "ColorIndex": 2
+    },
+    "e6131ab3-a5b6-4dd8-bf5e-48cc79778150": {
+      "ProjectGuid": "e6131ab3-a5b6-4dd8-bf5e-48cc79778150",
+      "DisplayName": "BasicWebServer.Server",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

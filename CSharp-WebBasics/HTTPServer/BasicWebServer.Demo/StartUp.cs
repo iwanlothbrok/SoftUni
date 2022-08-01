@@ -38,8 +38,8 @@ namespace BasicWebServer.Demo
 
         public static async Task Main()
         {
-            await DownloadSitesAsTextFile(Startup.FileName,
-                new string[] { "https://judge.softuni.org/", "https://softuni.org/" });
+        //  await DownloadSitesAsTextFile(Startup.FileName,
+        //      new string[] { "https://zamunda.net/catalogs/", "https://softuni.org/" }); there is some problem with this one 
 
             var server = new HttpServer(routes => routes
                .MapGet("/", new TextResponse("Hello from the server!"))
@@ -136,7 +136,7 @@ namespace BasicWebServer.Demo
 
             if (!requestHasCookies)
             {
-                response.Cookies.Add("My-Cookie", "My-Value");
+                response.Cookies.Add("The_site_is_hacked", "I_got_all_yours_passwords");
                 response.Cookies.Add("My-Second-Cookie", "My-Second-Value");
             }
         }
