@@ -5,7 +5,7 @@ using BasicWebServer.Server.Common;
 
 namespace BasicWebServer.Server.Responses
 {
-    public class ContentResponse : Response
+    public class ContentResponse  : Response
     {
         public ContentResponse(string content, string contentType,
             Action<Request, Response> preRenderAction = null)
