@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85595394-caf4-4504-8f83-1cf6e41abe6f": {
+      "ProjectGuid": "85595394-caf4-4504-8f83-1cf6e41abe6f",
+      "DisplayName": "01.TheImitationGame",
+      "ColorIndex": 0
+    },
+    "f3c2349e-a340-4c3e-af63-de552606d447": {
+      "ProjectGuid": "f3c2349e-a340-4c3e-af63-de552606d447",
+      "DisplayName": "03.ThePianist",
+      "ColorIndex": 1
+    },
+    "717d4658-08e7-4880-a074-71982225a94c": {
+      "ProjectGuid": "717d4658-08e7-4880-a074-71982225a94c",
+      "DisplayName": "02.AdAstras",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

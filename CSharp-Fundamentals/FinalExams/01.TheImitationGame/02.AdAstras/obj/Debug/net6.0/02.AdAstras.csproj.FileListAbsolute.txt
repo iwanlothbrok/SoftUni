@@ -1,0 +1,15 @@
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\bin\Debug\net6.0\02.AdAstras.exe
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\bin\Debug\net6.0\02.AdAstras.deps.json
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\bin\Debug\net6.0\02.AdAstras.runtimeconfig.json
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\bin\Debug\net6.0\02.AdAstras.dll
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\bin\Debug\net6.0\ref\02.AdAstras.dll
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\bin\Debug\net6.0\02.AdAstras.pdb
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.AssemblyInfo.cs
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.dll
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\ref\02.AdAstras.dll
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.pdb
+C:\Users\cmi\source\repos\01.TheImitationGame\02.AdAstras\obj\Debug\net6.0\02.AdAstras.genruntimeconfig.cache
