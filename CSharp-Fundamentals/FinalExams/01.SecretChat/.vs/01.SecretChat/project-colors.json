@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e916d99-199a-4927-8112-4717bc89055c": {
+      "ProjectGuid": "6e916d99-199a-4927-8112-4717bc89055c",
+      "DisplayName": "01.SecretChat",
+      "ColorIndex": 0
+    },
+    "7b6097e1-3393-459d-9bad-8d06904be48d": {
+      "ProjectGuid": "7b6097e1-3393-459d-9bad-8d06904be48d",
+      "DisplayName": "02.MirrorWords",
+      "ColorIndex": 1
+    },
+    "1a69e4bc-5c70-4848-aa33-9b45538922d2": {
+      "ProjectGuid": "1a69e4bc-5c70-4848-aa33-9b45538922d2",
+      "DisplayName": "03.NeedForSpeed",
+      "ColorIndex": 2
+    },
+    "8363d6a7-8423-4e48-8240-b16349226f56": {
+      "ProjectGuid": "8363d6a7-8423-4e48-8240-b16349226f56",
+      "DisplayName": "03,1.Nf",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
