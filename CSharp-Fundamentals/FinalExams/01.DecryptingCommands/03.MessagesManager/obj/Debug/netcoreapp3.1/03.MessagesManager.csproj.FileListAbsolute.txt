@@ -1,0 +1,14 @@
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.exe
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.deps.json
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.runtimeconfig.json
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.runtimeconfig.dev.json
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.dll
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.pdb
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.AssemblyInfo.cs
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.dll
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.pdb
+C:\Users\cmi\source\repos\01.DecryptingCommands\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.genruntimeconfig.cache

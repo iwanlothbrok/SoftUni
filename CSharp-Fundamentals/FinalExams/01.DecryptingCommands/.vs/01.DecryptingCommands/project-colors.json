@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09bf825e-50d8-4001-b9bb-d2f50b07623c": {
+      "ProjectGuid": "09bf825e-50d8-4001-b9bb-d2f50b07623c",
+      "DisplayName": "01.DecryptingCommands",
+      "ColorIndex": 0
+    },
+    "d4bf106e-173a-4c69-8e69-a3dba0765028": {
+      "ProjectGuid": "d4bf106e-173a-4c69-8e69-a3dba0765028",
+      "DisplayName": "03.MessagesManager",
+      "ColorIndex": 1
+    },
+    "68170b30-18f6-4097-91db-4578018fa587": {
+      "ProjectGuid": "68170b30-18f6-4097-91db-4578018fa587",
+      "DisplayName": "NewTry",
+      "ColorIndex": 2
+    },
+    "c64a6a19-6349-4e25-81f2-fd3fb74df4a6": {
+      "ProjectGuid": "c64a6a19-6349-4e25-81f2-fd3fb74df4a6",
+      "DisplayName": "02.BossRush",
+      "ColorIndex": 3
+    },
+    "fd1d208b-bffa-438b-9552-499e0d5edbfa": {
+      "ProjectGuid": "fd1d208b-bffa-438b-9552-499e0d5edbfa",
+      "DisplayName": "Test",
+      "ColorIndex": 4
+    },
+    "0722275c-25fd-4dfe-8f12-9e1ef533c68c": {
+      "ProjectGuid": "0722275c-25fd-4dfe-8f12-9e1ef533c68c",
+      "DisplayName": "amrto",
+      "ColorIndex": 5
+    },
+    "28da89d3-a9c3-4a19-a0eb-06c04f2c0e57": {
+      "ProjectGuid": "28da89d3-a9c3-4a19-a0eb-06c04f2c0e57",
+      "DisplayName": "aaa",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
