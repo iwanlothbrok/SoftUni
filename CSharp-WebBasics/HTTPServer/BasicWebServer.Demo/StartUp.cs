@@ -28,7 +28,9 @@ namespace BasicWebServer.Demo
                                                                 .MapGet<HomeController>("/Cookies", c => c.Cookies())
                                                                 .MapGet<HomeController>("/Session", c => c.Session())
                                                                 .MapGet<UsersController>("/Login", c => c.Login())
-                                                                .MapPost<UsersController>("/Login", c => c.LogInUser()))
+                                                                .MapPost<UsersController>("/Login", c => c.LogInUser())
+                                                                .MapGet<UsersController>("/Logout", c => c.Logout())
+                                                                .MapGet<UsersController>("/UserProfile", c => c.GetUserData()))
                                                                 .Start();
 
 
@@ -37,115 +39,6 @@ namespace BasicWebServer.Demo
 
 
 
-        //    private static void AddCookiesAction(Request request, Response response)
-        //    {
-        //        var requestHasCookies = request.Cookies.Any(c => c.Name != Session.SessionCookieName);
-        //        var bodyText = "";
-
-        //        if (requestHasCookies)
-        //        {
-        //            var cookieText = new StringBuilder();
-        //            cookieText.AppendLine("<h1>Cookies</h1>");
-
-        //            cookieText
-        //                .Append("<table border='1'><tr><th>Name</th><th>Value</th></tr>");
-
-        //            foreach (var cookie in request.Cookies)
-        //            {
-        //                cookieText.Append("<tr>");
-        //                cookieText
-        //                    .Append($"<td>{HttpUtility.HtmlEncode(cookie.Name)}</td>");
-        //                cookieText
-        //                    .Append($"<td>{HttpUtility.HtmlEncode(cookie.Value)}</td>");
-        //                cookieText.Append("</tr>");
-        //            }
-        //            cookieText.Append("</table>");
-
-        //            bodyText = cookieText.ToString();
-        //        }
-        //        else
-        //        {
-        //            bodyText = "<h1>Cookies set!</h1>";
-        //        }
-
-        //        response.Body = "";
-        //        response.Body += bodyText;
-
-        //        if (!requestHasCookies)
-        //        {
-        //            response.Cookies.Add("The_site_is_hacked", "I_got_all_yours_passwords");
-        //            response.Cookies.Add("My-Second-Cookie", "My-Second-Value");
-        //        }
-        //    }
-
-        //    private static void DisplaySessionInfoAction(Request request, Response response)
-        //    {
-        //        var sessionExists = request.Session
-        //            .ContainsKey(Session.SessionCurrentDateKey);
-
-        //        var bodyText = "";
-
-        //        if (sessionExists)
-        //        {
-        //            var currentDate = request.Session[Session.SessionCurrentDateKey];
-        //            bodyText = $"Stored date: {currentDate}!";
-        //        }
-        //        else
-        //        {
-        //            bodyText = "Current date stored!";
-        //        }
-
-        //        response.Body = "";
-        //        response.Body += bodyText;
-        //    }
-
-        //    private static void LoginAction(Request request, Response response)
-        //    {
-        //        request.Session.Clear();
-
-        //        var bodyText = "";
-
-        //        var usernameMatches = request.Form["Username"] == Startup.Username;
-        //        var passwordMatches = request.Form["Password"] == Startup.Password;
-
-        //        if (usernameMatches && passwordMatches)
-        //        {
-        //            request.Session[Session.SessionUserKey] = "MyUserId";
-        //            response.Cookies.Add(Session.SessionCookieName,
-        //                request.Session.Id);
-
-        //            bodyText = "<h3>Logged successfully!</h3>";
-        //        }
-        //        else
-        //        {
-        //            bodyText = Startup.LoginForm;
-        //        }
-
-        //        response.Body = "";
-        //        response.Body += bodyText;
-        //    }
-
-        //    private static void LogoutAction(Request request, Response response)
-        //    {
-        //        request.Session.Clear();
-
-        //        response.Body = "";
-        //        response.Body += "<h3>Logged out successfully!</h3>";
-        //    }
-
-        //    private static void GetUserDataAction(Request request, Response response)
-        //    {
-        //        if (request.Session.ContainsKey(Session.SessionUserKey))
-        //        {
-        //            response.Body = "";
-        //            response.Body += $"<h3>Currently logged-in user is with username '{Username}'</h3>";
-        //        }
-        //        else
-        //        {
-        //            response.Body = "";
-        //            response.Body += "<h3>You should first log in - <a href='/Login'>Login</a></h3>";
-        //        }
-        //    }
     }
 
 }

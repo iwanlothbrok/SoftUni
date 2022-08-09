@@ -22,7 +22,7 @@ namespace BasicWebServer.Demo.Controllers
         {
         }
 
-        public Response Login() => Html(UsersController.LoginForm);
+        public Response Login() => View();
         public Response LogInUser()
         {
             this.Request.Session.Clear();
@@ -43,6 +43,23 @@ namespace BasicWebServer.Demo.Controllers
                     return Html("<h3>Logged succesfully!</h3>", cookies);
                 }
                 return Html("<h3>Logged succesfully!</h3>");
+            }
+            return Redirect("/Login");
+        }
+
+        public Response Logout()
+        {
+            Request.Session.Clear();
+
+            return Html($"<h2>Logout successfully!");
+        }
+
+        public Response GetUserData()
+        {
+            if (this.Request.Session.ContainsKey(Session.SessionUserKey))
+            {
+                return Html($"<h3>Currently logged-in user is " +
+                    $"with username '{Username}'</h3>");
             }
             return Redirect("/Login");
         }
