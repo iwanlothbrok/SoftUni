@@ -10,9 +10,14 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<None Update="content.txt">
-			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
+		<Content Include="Views\\**\*.*">
+			<CopyToOutputDirectory>PreserveNeweset</CopyToOutputDirectory>
+		</Content>
+
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Views\Home\HtmlFormPost.cshtml" />
 	</ItemGroup>
 
 </Project>

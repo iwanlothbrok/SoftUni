@@ -1,5 +1,4 @@
 C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.exe
-C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\bin\Debug\net6.0\content.txt
 C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.deps.json
 C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.runtimeconfig.json
 C:\GitHub\SoftUni\CSharp-WebBasics\HTTPServer\BasicWebServer.Demo\bin\Debug\net6.0\BasicWebServer.Demo.dll

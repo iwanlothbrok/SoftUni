@@ -23,7 +23,7 @@ namespace BasicWebServer.Demo
                                                                 .MapGet<HomeController>("/", c => c.Index())
                                                                 .MapGet<HomeController>("/Redirect", c => c.Redirect())
                                                                 .MapGet<HomeController>("/HTML", c => c.Html())
-                                                                .MapPost<HomeController>("/HTML", c => c.HtmlPostForm())
+                                                                //.MapPost<HomeController>("/HTML", c => c.HtmlPostForm())
                                                                 .MapGet<HomeController>("/Content", c => c.Content())
                                                                 .MapGet<HomeController>("/Cookies", c => c.Cookies())
                                                                 .MapGet<HomeController>("/Session", c => c.Session())

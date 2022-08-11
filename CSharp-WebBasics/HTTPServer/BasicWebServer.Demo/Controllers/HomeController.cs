@@ -1,4 +1,6 @@
-﻿using BasicWebServer.Server.Controllers;
+﻿using BasicWebServer.Demo.Models;
+using BasicWebServer.Server.Attributes;
+using BasicWebServer.Server.Controllers;
 using BasicWebServer.Server.HTTP;
 using System;
 using System.Collections.Generic;
@@ -31,15 +33,19 @@ namespace BasicWebServer.Demo.Controllers
         public Response Index() => Text("Hello from my server!");
         public Response Redirect() => Redirect("https://softuni.org/");
         public Response Html() => View();
+        [HttpPost]
         public Response HtmlPostForm()
         {
-            string formData = string.Empty;
-            foreach (var (key, value) in this.Request.Form)
+            string name = Request.Form["Name"];
+            string age = Request.Form["Age"];
+
+            var model = new FormViewModel()
             {
-                formData += $"{key} - {value}";
-                formData += Environment.NewLine;
-            }
-            return Text(formData);
+                Name = name,
+                Age = int.Parse(age)
+            };
+
+            return View(model);
         }
         public Response Content() =>View();
         public Response Cookies()
@@ -76,15 +82,22 @@ namespace BasicWebServer.Demo.Controllers
 
         public Response Session()
         {
-            var currentDateKey = "CurrentDate!";
-            var sessionExist = Request.Session.ContainsKey(currentDateKey);
-            if (sessionExist )
-            {
-                var currentDate = this.Request.Session[currentDateKey];
-                return Text($"Stored date: {currentDate}");
+            var sessionExists = Request.Session
+                .ContainsKey(Server.HTTP.Session.SessionCurrentDateKey);
 
+            var bodyText = "";
+
+            if (sessionExists)
+            {
+                var currentDate = Request.Session[Server.HTTP.Session.SessionCurrentDateKey];
+                bodyText = $"Stored date: {currentDate}!";
             }
-            return Text($"Current stored date!");
+            else
+            {
+                bodyText = "Current date stored!";
+            }
+
+            return Text(bodyText);
         }
     }
 }
