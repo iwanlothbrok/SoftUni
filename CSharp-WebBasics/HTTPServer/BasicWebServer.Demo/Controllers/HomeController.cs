@@ -47,7 +47,8 @@ namespace BasicWebServer.Demo.Controllers
 
             return View(model);
         }
-        public Response Content() =>View();
+        public Response Content() => View();
+        public Response DownloadContent() => File(FileName);//make it work
         public Response Cookies()
         {
 
