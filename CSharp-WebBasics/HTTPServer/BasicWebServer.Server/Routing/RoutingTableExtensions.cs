@@ -5,7 +5,7 @@ namespace BasicWebServer.Server.Routing
 {
     public static class RoutingTableExtensions
     {
-        private static TController CreateController<TController>(Request request)=>
+        private static TController CreateController<TController>(Request request) =>
                 (TController)Activator.CreateInstance(typeof(TController), new[] { request });
         public static IRoutingTable MapGet<TController>(
         this IRoutingTable routingTable,

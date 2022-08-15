@@ -22,7 +22,7 @@ namespace BasicWebServer.Demo
                                                                 .MapGet<UsersController>("/Login", c => c.Login())
                                                                 .MapPost<UsersController>("/Login", c => c.LogInUser())
                                                                 .MapGet<UsersController>("/Logout", c => c.Logout())
-                                                                .MapGet<UsersController>("/UserProfile", c => c.GetUserData()))
+                                                                .MapPost<UsersController>("/UserProfile", c => c.GetUserData()))
                                                                 .Start();
 
 

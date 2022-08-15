@@ -20,4 +20,19 @@
 	  <None Remove="Views\Home\HtmlFormPost.cshtml" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Content Update="Views\Home\Content.cshtml">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	  <Content Update="Views\Home\Html.cshtml">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	  <Content Update="Views\Home\HtmlFormPost.cshtml">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	  <Content Update="Views\User\Login.cshtml">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </Content>
+	</ItemGroup>
+
 </Project>
