@@ -35,7 +35,7 @@ namespace BasicWebServer.Server.Controllers
         protected Response Unauthorized() => new UnauthorizedResponse();
         protected Response NotFound() => new NotFoundResponse();
         protected Response Redirect(string location) => new RedirectResponse(location);
-        protected Response File(string fileName) => new TextFileResponse(fileName);
+        protected Response File(string fileName) => new FileResponse(fileName);
         protected Response View([CallerMemberName] string viewName = "")
             => new ViewResponse(viewName, GetControllerName());
         protected Response View(object model, [CallerMemberName] string viewName = "")

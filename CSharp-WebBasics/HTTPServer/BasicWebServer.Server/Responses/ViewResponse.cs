@@ -25,7 +25,8 @@ namespace BasicWebServer.Server.Responses
 
             Body = viewContent;
         }
-
+      
+           
         private string PopulateModel(string viewContent, object model)
         {
             var data = model.

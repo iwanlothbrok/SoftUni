@@ -21,6 +21,8 @@ namespace BasicWebServer.Server.HTTP
 
         public string Body { get; set; }
 
+        public byte[] FileContent { get; set; }
+
 
         public override string ToString()
         {
