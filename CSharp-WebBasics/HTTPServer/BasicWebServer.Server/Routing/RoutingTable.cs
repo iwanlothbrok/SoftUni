@@ -8,7 +8,7 @@ namespace BasicWebServer.Server.Routing
 {
     public class RoutingTable : IRoutingTable
     {
-         private readonly Dictionary<Method, Dictionary<string, Func<Request, Response>>> routes;
+        private readonly Dictionary<Method, Dictionary<string, Func<Request, Response>>> routes;
 
         public RoutingTable() => this.routes = new()
         {
@@ -20,8 +20,8 @@ namespace BasicWebServer.Server.Routing
 
 
         public IRoutingTable Map(
-            Method method, 
-            string path, 
+            Method method,
+            string path,
             Func<Request, Response> responseFunction)
         {
             Guard.AgainstNull(path, nameof(path));
@@ -32,7 +32,7 @@ namespace BasicWebServer.Server.Routing
                 case Method.Get:
                     return MapGet(path, responseFunction);
                 case Method.Post:
-                    return MapPost(path, responseFunction); 
+                    return MapPost(path, responseFunction);
                 case Method.Put:
                 case Method.Delete:
                 default:
