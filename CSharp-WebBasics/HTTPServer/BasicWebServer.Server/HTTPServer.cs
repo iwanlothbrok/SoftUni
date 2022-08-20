@@ -27,6 +27,7 @@ namespace BasicWebServer.Server
             this.serverListener = new TcpListener(this.ipAddress, port);
 
             routingTableConfiguration(this.routingTable = new RoutingTable());
+            ServiceCollection = new ServiceCollection();
         }
 
         public HttpServer(int port, Action<IRoutingTable> routingTable)
