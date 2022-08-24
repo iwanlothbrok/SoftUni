@@ -60,8 +60,8 @@ namespace BasicWebServer.Server
                     Console.WriteLine(requestText);
 
                     var request = Request.Parse(requestText, ServiceCollection);
-                    var response = this.routingTable.MatchRequest(request);
 
+                    var response = this.routingTable.MatchRequest(request);
 
                     AddSession(request, response);
 
@@ -109,7 +109,6 @@ namespace BasicWebServer.Server
                     .Concat(response.FileContent)
                     .ToArray();
             }
-
 
             await networkStream.WriteAsync(resposeBytes);
         }

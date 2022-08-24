@@ -23,7 +23,6 @@ namespace BasicWebServer.Server.HTTP
 
         public byte[] FileContent { get; set; }
 
-
         public override string ToString()
         {
             var result = new StringBuilder();
