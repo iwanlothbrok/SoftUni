@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtVck/q52Wk3St1LeuFuciLjGJkADUg+Hf/IzwoNWHY7edT1FMh8RBmxqVLOlFDmNxFsc/zbwll4193Q0bHq+w==",
+  "dgSpecHash": "TkRDTcZ1gAZsXtO84wHBP4eomuZoWn+pZbjDH/Ccic0A9I093PXcn/49LCP1pCZq/KMJAF+1bFw/dKxbwIhajQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmi\\Desktop\\New folder\\SharedTrip\\SharedTrip.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni\\CSharp-WebBasics\\SharedTripExam\\SharedTrip\\SharedTrip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cmi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

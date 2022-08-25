@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmi\\Desktop\\New folder\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {}
+    "C:\\GitHub\\SoftUni\\CSharp-WebBasics\\SharedTripExam\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmi\\Desktop\\New folder\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+    "C:\\GitHub\\SoftUni\\CSharp-WebBasics\\SharedTripExam\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmi\\Desktop\\New folder\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni\\CSharp-WebBasics\\SharedTripExam\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
         "projectName": "BasicWebServer.Server",
-        "projectPath": "C:\\Users\\cmi\\Desktop\\New folder\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni\\CSharp-WebBasics\\SharedTripExam\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
         "packagesPath": "C:\\Users\\cmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmi\\Desktop\\New folder\\BasicWebServer.Server\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni\\CSharp-WebBasics\\SharedTripExam\\BasicWebServer.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

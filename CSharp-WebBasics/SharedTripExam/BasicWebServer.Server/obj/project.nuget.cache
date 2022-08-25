@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2iT4hcHOTMdNeb0ov4mPw2NorcBnfU2vX8QIYyon4D3zgdssak2RW4iPofj965xZrOXbl/Iz5c0hycZ5+4mtHg==",
+  "dgSpecHash": "Tvcz2zRACExkCcV60h9isMtwSXW4CwimNUDTbflERK3n20gh4ZUtlbHSwdSVKpcbW/aQr2qAPS80p+hPWb1G2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmi\\Desktop\\New folder\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni\\CSharp-WebBasics\\SharedTripExam\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
