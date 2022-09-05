@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4sS4M91xKSwt9OrYnWcAjs3SPO5K/6MoquP5suGn7Ko=",
+  "Hash": "lsQN+Djp5dv69J5cHRqSxCpQPbeuBIgVzEoQ9sQGQvs=",
   "Source": "Warehouse",
   "BasePath": "_content/Warehouse",
   "Mode": "Default",
@@ -542,23 +542,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\favicon.ico",
-      "SourceId": "Warehouse",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\",
-      "BasePath": "_content/Warehouse",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\img\\AdminLTELogo.png",
@@ -1120,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\user8-128x128.jpg"
+    },
+    {
+      "Identity": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\img\\warehouse.png",
+      "SourceId": "Warehouse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\",
+      "BasePath": "_content/Warehouse",
+      "RelativePath": "img/warehouse.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\warehouse.png"
+    },
+    {
+      "Identity": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\img\\warehouse2.png",
+      "SourceId": "Warehouse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\",
+      "BasePath": "_content/Warehouse",
+      "RelativePath": "img/warehouse2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\warehouse2.png"
     },
     {
       "Identity": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\js\\.eslintrc.json",
@@ -3058,6 +3075,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Identity": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\warehouse3.png",
+      "SourceId": "Warehouse",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\wwwroot\\",
+      "BasePath": "_content/Warehouse",
+      "RelativePath": "warehouse3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\warehouse3.png"
     },
     {
       "Identity": "C:\\Users\\cmi\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.8\\staticwebassets\\V5\\css\\site.css",
