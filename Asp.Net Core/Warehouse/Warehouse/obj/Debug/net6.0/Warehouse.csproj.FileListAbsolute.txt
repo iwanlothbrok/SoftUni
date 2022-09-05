@@ -68,3 +68,7 @@ C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\obj\Debug\net6.0\refint\Wareh
 C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.pdb
 C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\obj\Debug\net6.0\Warehouse.genruntimeconfig.cache
 C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\obj\Debug\net6.0\ref\Warehouse.dll
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\bin\Debug\net6.0\Warehouse.Core.dll
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\bin\Debug\net6.0\Warehouse.Infrastructure.dll
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\bin\Debug\net6.0\Warehouse.Core.pdb
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse\bin\Debug\net6.0\Warehouse.Infrastructure.pdb

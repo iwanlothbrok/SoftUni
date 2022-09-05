@@ -951,6 +951,29 @@
             "rid": "win"
           }
         }
+      },
+      "Warehouse.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Warehouse.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Warehouse.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Warehouse.Core.dll": {}
+        }
+      },
+      "Warehouse.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Warehouse.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Warehouse.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -2442,6 +2465,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Warehouse.Core/1.0.0": {
+      "type": "project",
+      "path": "../Warehouse.Core/Warehouse.Core.csproj",
+      "msbuildProject": "../Warehouse.Core/Warehouse.Core.csproj"
+    },
+    "Warehouse.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Warehouse.Infrastructure/Warehouse.Infrastructure.csproj",
+      "msbuildProject": "../Warehouse.Infrastructure/Warehouse.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2450,7 +2483,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.8",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
-      "Microsoft.EntityFrameworkCore.Tools >= 6.0.8"
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
+      "Warehouse.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2479,7 +2513,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse.Core\\Warehouse.Core.csproj": {
+              "projectPath": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse.Core\\Warehouse.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

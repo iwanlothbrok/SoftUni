@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\bin\Debug\net6.0\Warehouse.Core.deps.json
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\bin\Debug\net6.0\Warehouse.Core.dll
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\bin\Debug\net6.0\Warehouse.Core.pdb
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\bin\Debug\net6.0\Warehouse.Infrastructure.dll
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\bin\Debug\net6.0\Warehouse.Infrastructure.pdb
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.AssemblyInfo.cs
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.csproj.CopyComplete
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.dll
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\refint\Warehouse.Core.dll
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\Warehouse.Core.pdb
+C:\GitHub\SoftUni\Asp.Net Core\Warehouse\Warehouse.Core\obj\Debug\net6.0\ref\Warehouse.Core.dll

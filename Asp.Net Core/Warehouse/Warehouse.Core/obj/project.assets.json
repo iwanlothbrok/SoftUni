@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Warehouse.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Warehouse.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Warehouse.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Warehouse.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Warehouse.Infrastructure/Warehouse.Infrastructure.csproj",
+      "msbuildProject": "../Warehouse.Infrastructure/Warehouse.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Warehouse.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\cmi\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse.Infrastructure\\Warehouse.Infrastructure.csproj": {
+              "projectPath": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse.Infrastructure\\Warehouse.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
