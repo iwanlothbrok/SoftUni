@@ -17,7 +17,7 @@ namespace Warehouse.Controllers
 		// GET: HomeController
 		public ActionResult Index()
 		{
-			ViewData[MessageConstant.ErrorMessage] = "Welcome to the Warehouse!";
+			ViewData[MessageConstant.SuccsessMessage] = "Welcome to the Warehouse!";
 
 			return View();
 		}
