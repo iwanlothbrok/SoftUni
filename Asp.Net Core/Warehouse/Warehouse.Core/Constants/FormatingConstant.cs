@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Warehouse.Core.Constants
 {
-    internal class FormatingConstant
+    public class FormatingConstant
     {
+        public const string NormalDateFormat = "dd.mm.yyyy";
     }
 }
