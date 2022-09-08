@@ -6,10 +6,17 @@ namespace Warehouse.ModelBinders
     {
         public IModelBinder? GetBinder(ModelBinderProviderContext context)
         {
-           if (context == null)
+            if (context == null)
             {
                 throw new ArgumentNullException(nameof(context));
             }
+
+            if (context.Metadata.ModelType == typeof(Decimal) || context.Metadata.ModelType == typeof(Decimal?))
+            {
+                return new DecimalModelBinder();
+            }
+
+            return null;
         }
     }
 }
