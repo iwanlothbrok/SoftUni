@@ -1,10 +1,10 @@
-  <Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Warehouse-35732F13-CE80-4914-A33B-AC9EB03398DB</UserSecretsId>
+    <UserSecretsId>aspnet-Warehouse-F30CF8E4-DF4E-4AD4-B14D-D7C6A3892E34</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,6 +13,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
   </ItemGroup>
 
   <ItemGroup>
