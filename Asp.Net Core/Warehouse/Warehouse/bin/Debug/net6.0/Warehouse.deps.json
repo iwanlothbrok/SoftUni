@@ -541,6 +541,10 @@
         }
       },
       "Warehouse.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
+        },
         "runtime": {
           "Warehouse.Infrastructure.dll": {}
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gn/8VlCf1PIssE840b2HM4yIKjFgsFPnJW9Zs00J0vSLkd10QwCs95Kk41XY7FVC+HnAGUWN60qlanrngG2UDg==",
+  "dgSpecHash": "Stekq9blAW3PCrvSS1W73H37jcoCl3LrfOCU4AHsnKkYcHfttVznNotPY9W1/F5nbycMJh3e50PRJ1+aKxkaOQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\Warehouse.csproj",
+  "projectFilePath": "C:\\Users\\cmi\\Desktop\\Warehouse\\Warehouse\\Warehouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cmi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",
