@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmi\\source\\repos\\Warehouse\\Warehouse.Core\\Warehouse.Core.csproj",
+      "projectUniqueName": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse.Core\\Warehouse.Core.csproj",
       "projectName": "Warehouse.Core",
-      "projectPath": "C:\\Users\\cmi\\source\\repos\\Warehouse\\Warehouse.Core\\Warehouse.Core.csproj",
+      "projectPath": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse.Core\\Warehouse.Core.csproj",
       "packagesPath": "C:\\Users\\cmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmi\\source\\repos\\Warehouse\\Warehouse.Core\\obj\\",
+      "outputPath": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

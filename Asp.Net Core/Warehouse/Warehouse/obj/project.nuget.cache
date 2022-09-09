@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nmIaXQPK3YgnN3D64TxOXMMj+yp7FNt/nHdqBRoB+lwvGELOWPJGv8azJcokS0WTC3oAQXG6g8k/F9cS5RrfWQ==",
+  "dgSpecHash": "QDLSleL852+gh3SuxRNnilV+smAFFa028uyN8FoH+mdYkGr9oQOfDuIVv8TIG4lviGdS/JsWm68v8RX33z7GJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cmi\\source\\repos\\Warehouse\\Warehouse\\Warehouse.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni\\Asp.Net Core\\Warehouse\\Warehouse\\Warehouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\cmi\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
