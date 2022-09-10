@@ -3651,11 +3651,29 @@
       "Warehouse.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Warehouse.Infrastructure": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Warehouse.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/Warehouse.Core.dll": {}
+        }
+      },
+      "Warehouse.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/Warehouse.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Warehouse.Infrastructure.dll": {}
         }
       }
     }
@@ -10323,6 +10341,11 @@
       "type": "project",
       "path": "../Warehouse.Core/Warehouse.Core.csproj",
       "msbuildProject": "../Warehouse.Core/Warehouse.Core.csproj"
+    },
+    "Warehouse.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Warehouse.Infrastructure/Warehouse.Infrastructure.csproj",
+      "msbuildProject": "../Warehouse.Infrastructure/Warehouse.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {

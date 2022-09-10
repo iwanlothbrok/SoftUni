@@ -2309,8 +2309,21 @@
         }
       },
       "Warehouse.Core/1.0.0": {
+        "dependencies": {
+          "Warehouse.Infrastructure": "1.0.0"
+        },
         "runtime": {
           "Warehouse.Core.dll": {}
+        }
+      },
+      "Warehouse.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
+        },
+        "runtime": {
+          "Warehouse.Infrastructure.dll": {}
         }
       }
     }
@@ -3582,6 +3595,11 @@
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
     "Warehouse.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Warehouse.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Xml;
 using Warehouse.Data;
-//using Warehouse.Infrastucture.Data;
+
 using Warehouse.ModelBinders;
 using Warehouse.Core.Constants;
 
