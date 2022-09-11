@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Warehouse.Core.Constants;
 
 namespace Warehouse.Controllers
 {
+	[Authorize]
 	public class HomeController : BaseController
     {
 		private readonly ILogger<HomeController> _logger;
