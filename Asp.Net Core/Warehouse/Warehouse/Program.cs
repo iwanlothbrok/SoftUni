@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Xml;
-using Warehouse.Data;
+using Warehouse.Infrastructure.Data;
 
 using Warehouse.ModelBinders;
 using Warehouse.Core.Constants;
