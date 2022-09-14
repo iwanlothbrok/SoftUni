@@ -250,6 +250,79 @@ namespace Warehouse.Infrastructure.Migrations
                     b.ToTable("Categories");
                 });
 
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Contragent", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Address")
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("CustomerNumber")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("Identifier")
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("LoyaltyCard")
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Contragents");
+                });
+
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Deal", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("ContragentId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ContragentId");
+
+                    b.ToTable("Deals");
+                });
+
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.DealSubject", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("DealId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("ItemCount")
+                        .HasColumnType("int");
+
+                    b.Property<Guid>("ItemId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("DealId");
+
+                    b.HasIndex("ItemId");
+
+                    b.ToTable("DealSubjects");
+                });
+
             modelBuilder.Entity("Warehouse.Infrastructure.Data.Item", b =>
                 {
                     b.Property<Guid>("Id")
@@ -284,6 +357,38 @@ namespace Warehouse.Infrastructure.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Items");
+                });
+
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Rack", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<bool>("IsInUse")
+                        .HasColumnType("bit");
+
+                    b.Property<Guid>("ItemId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("ItemsCount")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Number")
+                        .IsRequired()
+                        .HasMaxLength(5)
+                        .HasColumnType("nvarchar(5)");
+
+                    b.Property<string>("Section")
+                        .IsRequired()
+                        .HasMaxLength(5)
+                        .HasColumnType("nvarchar(5)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ItemId");
+
+                    b.ToTable("Racks");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -337,6 +442,36 @@ namespace Warehouse.Infrastructure.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Deal", b =>
+                {
+                    b.HasOne("Warehouse.Infrastructure.Data.Contragent", "Contragent")
+                        .WithMany("Deals")
+                        .HasForeignKey("ContragentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Contragent");
+                });
+
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.DealSubject", b =>
+                {
+                    b.HasOne("Warehouse.Infrastructure.Data.Deal", "Deal")
+                        .WithMany("DealSubjects")
+                        .HasForeignKey("DealId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Warehouse.Infrastructure.Data.Item", "Item")
+                        .WithMany()
+                        .HasForeignKey("ItemId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Deal");
+
+                    b.Navigation("Item");
+                });
+
             modelBuilder.Entity("Warehouse.Infrastructure.Data.Item", b =>
                 {
                     b.HasOne("Warehouse.Infrastructure.Data.Category", "Category")
@@ -348,9 +483,35 @@ namespace Warehouse.Infrastructure.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Rack", b =>
+                {
+                    b.HasOne("Warehouse.Infrastructure.Data.Item", "Item")
+                        .WithMany("Racks")
+                        .HasForeignKey("ItemId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Item");
+                });
+
             modelBuilder.Entity("Warehouse.Infrastructure.Data.Category", b =>
                 {
                     b.Navigation("Items");
+                });
+
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Contragent", b =>
+                {
+                    b.Navigation("Deals");
+                });
+
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Deal", b =>
+                {
+                    b.Navigation("DealSubjects");
+                });
+
+            modelBuilder.Entity("Warehouse.Infrastructure.Data.Item", b =>
+                {
+                    b.Navigation("Racks");
                 });
 #pragma warning restore 612, 618
         }

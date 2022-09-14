@@ -29,7 +29,7 @@ namespace Warehouse.Infrastructure.Data
         [Required]
         public Guid CategoryId { get; set; }
 
-        //public IList<Rack> Racks { get; set; } = new List<Rack>();
+        public IList<Rack> Racks { get; set; } = new List<Rack>();
 
         [ForeignKey(nameof(CategoryId))]
         public Category Category { get; set; }
