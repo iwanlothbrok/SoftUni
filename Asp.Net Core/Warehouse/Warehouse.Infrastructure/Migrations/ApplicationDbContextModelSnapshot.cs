@@ -280,6 +280,9 @@ namespace Warehouse.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CustomerNumber")
+                        .IsUnique();
+
                     b.ToTable("Contragents");
                 });
 
