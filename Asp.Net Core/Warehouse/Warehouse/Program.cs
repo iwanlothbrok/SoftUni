@@ -12,9 +12,17 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddApplicationDbContexts(builder.Configuration);
 
+
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
+
+builder.Services.AddAuthentication()
+    .AddFacebook(options =>
+    {
+        options.AppId = "1102908263585927";
+        options.AppSecret = "5169cd7a85df45e37e78f560e13e4e34";
+    });
 
 builder.Services.AddControllersWithViews()
     .AddMvcOptions(options =>
@@ -27,6 +35,7 @@ builder.Services.AddControllersWithViews()
 
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
