@@ -14,14 +14,15 @@ builder.Services.AddApplicationDbContexts(builder.Configuration);
 
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddRoleManager<IdentityRole>();
 builder.Services.AddRazorPages();
 
 builder.Services.AddAuthentication()
     .AddFacebook(options =>
     {
-        options.AppId = "1102908263585927";
-        options.AppSecret = "5169cd7a85df45e37e78f560e13e4e34";
+        options.AppId = builder.Configuration.GetValue<string>("Facebook:AppId");
+        options.AppSecret = builder.Configuration.GetValue<string>("Facebook:AppSecret");
     });
 
 builder.Services.AddControllersWithViews()
