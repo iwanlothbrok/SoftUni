@@ -1,12 +1,13 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Warehouse.Core.Constants;
 
 namespace Warehouse.Controllers
 {
-	[Authorize]
-	public class HomeController : Controller
+	
+	public class HomeController : BaseController
     {
 		private readonly ILogger<HomeController> _logger;
 
@@ -16,17 +17,25 @@ namespace Warehouse.Controllers
 			_logger = logger;
 		}
 
-        // GET: HomeController
-        [Authorize]
-        public ActionResult Index()
+		// GET: HomeController
+		
+		public ActionResult Index()
 		{
 			ViewData[MessageConstant.SuccsessMessage] = "Welcome to the Warehouse!";
 
 			return View();
 		}
+		// GET: HomeController
+		
+        public ActionResult Contact()
+        {
+            //ViewData[MessageConstant.SuccsessMessage] = "Welcome to the Warehouse!";
 
-		// GET: HomeController/Details/5
-		public ActionResult Details(int id)
+            return View();
+        }
+
+        // GET: HomeController/Details/5
+        public ActionResult Details(int id)
 		{
 			return View();
 		}

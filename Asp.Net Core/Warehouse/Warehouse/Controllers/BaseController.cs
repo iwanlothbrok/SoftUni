@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Warehouse.Controllers
 {
-    [Authorize]
+	[Authorize]
     public class BaseController : Controller
 	{
 		
