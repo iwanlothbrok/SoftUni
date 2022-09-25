@@ -39,7 +39,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
 					<a href="/" class="nav-link">Home</a>
 				</li>
 				<li class="nav-item d-none d-sm-inline-block">
-					<a href="../Controllers/HomeController/Contact" class="nav-link">Contact</a>
+@*					/<a href="../Controllers/HomeController.cs" class="nav-link">Contact</a>
+*@					 <a asp-area="controller" asp-action="contact" asp-controller="home" class="nav-link">Contact</a>
+
 				</li>
 				
 			</ul>
