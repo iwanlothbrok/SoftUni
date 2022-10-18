@@ -1,8 +1,8 @@
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using Watchlist.Data;
-using Watchlist.Extensions;
+using Watchlist.Data.Models;
+using Watchlist.Extension;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,13 +10,13 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<WatchlistDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = false)
+    .AddEntityFrameworkStores<WatchlistDbContext>();
+builder.Services.AddControllersWithViews();
 builder.Services.Configure<RazorViewEngineOptions>(options => {
     options.ViewLocationExpanders.Add(new ViewLocationExpander());
 });
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-    .AddEntityFrameworkStores<WatchlistDbContext>();
-builder.Services.AddControllersWithViews();
-
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

@@ -1,4 +1,4 @@
-﻿namespace Watchlist.Extensions
+﻿namespace Watchlist.Extension
 {
     using Microsoft.AspNetCore.Mvc.Razor;
 

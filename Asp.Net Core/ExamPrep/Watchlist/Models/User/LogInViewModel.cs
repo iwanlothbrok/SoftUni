@@ -4,11 +4,11 @@
     using System.ComponentModel.DataAnnotations;
     using RequiredAttribute = System.ComponentModel.DataAnnotations.RequiredAttribute;
 
-    public class LogInModel
+    public class LogInViewModel
     {
         [StringLength(20, MinimumLength = 5)]
         [Required]
-        public string Username { get; set; }
+        public string UserName { get; set; }
 
         [StringLength(20, MinimumLength = 5)]
         [HiddenInput]
