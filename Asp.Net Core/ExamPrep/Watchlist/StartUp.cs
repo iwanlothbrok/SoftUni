@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Watchlist.Data;
 using Watchlist.Data.Models;
 using Watchlist.Extension;
+using Watchlist.Services.Movies;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,9 +15,12 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<User>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<WatchlistDbContext>();
 builder.Services.AddControllersWithViews();
-builder.Services.Configure<RazorViewEngineOptions>(options => {
+builder.Services.Configure<RazorViewEngineOptions>(options =>
+{
     options.ViewLocationExpanders.Add(new ViewLocationExpander());
 });
+
+builder.Services.AddScoped<IMovieService, MovieService>();
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

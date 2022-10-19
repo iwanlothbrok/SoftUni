@@ -16,19 +16,17 @@
         [Required]
         public string Director { get; set; }
 
-        [StringLength(5000, MinimumLength = 5)]
-        [Required]
-        public string Description { get; set; }
-
         [Required]
         public string ImageUrl { get; set; }
 
-        [Range(18,1)]
+        [Required]
         public decimal Rating { get; set; }
 
         public int GenreId { get; set; }
 
         [ForeignKey("GenreId")]
         public Genre Genre { get; set; }
+
+        public List<UserMovie> UserMovies { get; set; }
     }
 }

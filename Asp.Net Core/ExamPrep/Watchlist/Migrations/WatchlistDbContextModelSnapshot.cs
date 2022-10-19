@@ -8,10 +8,10 @@ using Watchlist.Data;
 
 #nullable disable
 
-namespace Watchlist.Data.Migrations
+namespace Watchlist.Migrations
 {
     [DbContext(typeof(WatchlistDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    partial class WatchlistDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
@@ -212,11 +212,6 @@ namespace Watchlist.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasMaxLength(5000)
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Director")
                         .IsRequired()
                         .HasMaxLength(50)
@@ -237,14 +232,9 @@ namespace Watchlist.Data.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(450)");
-
                     b.HasKey("Id");
 
                     b.HasIndex("GenreId");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Movies");
                 });
@@ -326,7 +316,7 @@ namespace Watchlist.Data.Migrations
 
                     b.HasIndex("MovieId");
 
-                    b.ToTable("UserMovie");
+                    b.ToTable("UserMovies");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -388,23 +378,19 @@ namespace Watchlist.Data.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Watchlist.Data.Models.User", null)
-                        .WithMany("WatchedMovies")
-                        .HasForeignKey("UserId");
-
                     b.Navigation("Genre");
                 });
 
             modelBuilder.Entity("Watchlist.Data.Models.UserMovie", b =>
                 {
                     b.HasOne("Watchlist.Data.Models.Movie", "Movie")
-                        .WithMany()
+                        .WithMany("UserMovies")
                         .HasForeignKey("MovieId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Watchlist.Data.Models.User", "User")
-                        .WithMany()
+                        .WithMany("WatchedMovies")
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -412,6 +398,11 @@ namespace Watchlist.Data.Migrations
                     b.Navigation("Movie");
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Watchlist.Data.Models.Movie", b =>
+                {
+                    b.Navigation("UserMovies");
                 });
 
             modelBuilder.Entity("Watchlist.Data.Models.User", b =>
