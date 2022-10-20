@@ -14,7 +14,8 @@
              );
         Task<IEnumerable<MoviesServiceModel>> GetWatchedAsync(string userId);
         Task AddMovieToCollectionAsync(int movieId, string userId);
-        AllMoviesForm All();
+        Task RemoveFromCollection(int movieId, string userId);
+        IEnumerable<MoviesServiceModel> All();
         IEnumerable<MoviesServiceModel> GetMovies(IQueryable<Movie> movie);
         List<MovieGenreModel> AllGenres();
 

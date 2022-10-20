@@ -51,12 +51,13 @@
             return View(nameof(All));
 
         }
-        
+
+        [HttpGet]
         public IActionResult All()
         {
             var movies = movieService.All();
 
-            if (movies.Movies.Count() == 0)
+            if (movies.Any() == false)
             {
                 ModelState.AddModelError(nameof(movies), "There is no film with this criteria!");
             }
@@ -64,18 +65,21 @@
         }
         public async Task<IActionResult> Watched()
         {
-            var userId = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier)?.Value;
+            var userId = User.GetId();
             var model = await movieService.GetWatchedAsync(userId);
 
             return View("Mine", model);
         }
+
         public async Task<IActionResult> AddToCollection(int movieId)
         {
             try
             {
-            var userId = User.GetId();
+                var userId = User.GetId();
 
                 await movieService.AddMovieToCollectionAsync(movieId, userId);
+
+
             }
             catch (Exception)
             {
@@ -83,7 +87,25 @@
                 throw;
             }
 
-            return View(nameof(All));
+            return RedirectToAction(nameof(All));
+        }
+        public async Task<IActionResult> RemoveFromCollection(int movieId)
+        {
+            try
+            {
+                var userId = User.GetId();
+
+                await movieService.RemoveFromCollection(movieId, userId);
+
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+            return RedirectToAction(nameof(All));
         }
     }
 }

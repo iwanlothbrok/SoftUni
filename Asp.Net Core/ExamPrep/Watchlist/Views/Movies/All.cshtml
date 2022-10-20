@@ -1,10 +1,10 @@
-﻿@model AllMoviesForm
+﻿@model IEnumerable<MoviesServiceModel>
 @{
     ViewBag.Title = "Watchlist";
 }
 
-<div class="text-center row">
-    @foreach (var movie in Model.Movies)
+<div class="text-center row">   
+    @foreach (var movie in Model)
     {
         <div class="card col-4" style="width: 20rem;">
             <img class="card-img-top" style="width: 18rem;"
