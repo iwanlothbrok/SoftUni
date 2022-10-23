@@ -32,7 +32,7 @@
         [HttpPost]
         public IActionResult Add(MovieFormModel movie)
         {
-            var userId = User.GetId();
+            
 
             if (movieService.GenreExist(movie.GenreId) == false)
             {

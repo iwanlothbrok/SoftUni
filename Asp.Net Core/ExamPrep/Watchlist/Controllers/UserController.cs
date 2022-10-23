@@ -1,5 +1,6 @@
 ﻿namespace Watchlist.Controllers
 {
+    using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Mvc;
     using Watchlist.Data.Models;
@@ -20,12 +21,14 @@
         }
 
         [HttpGet]
+         [AllowAnonymous]
         public IActionResult Register()
         {
             return View(new RegisterViewModel());
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public async Task<IActionResult> Register(RegisterViewModel model)
         {
             if (ModelState.IsValid)
@@ -60,6 +63,7 @@
         }
 
         [HttpGet]
+        [AllowAnonymous]
         public IActionResult Login()
         {
             var model = new LogInViewModel();
@@ -69,6 +73,7 @@
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public async Task<IActionResult> Login(LogInViewModel model)
         {
             if (!ModelState.IsValid)

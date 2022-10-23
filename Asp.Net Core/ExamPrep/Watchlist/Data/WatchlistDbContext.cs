@@ -47,6 +47,8 @@ using Watchlist.Data.Models;
                     k.MovieId
                 });
 
+           
+
             base.OnModelCreating(builder);
         }
         public DbSet<Movie> Movies { get; set; }
