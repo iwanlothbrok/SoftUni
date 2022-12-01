@@ -20,7 +20,7 @@
 
         }
 
-        [HttpGet]
+         [HttpGet]
          [AllowAnonymous]
         public IActionResult Register()
         {
@@ -79,6 +79,11 @@
             if (!ModelState.IsValid)
             {
                 return View(model);
+            }
+
+            if (User?.Identity?.IsAuthenticated ?? false)
+            {
+                return RedirectToAction("All", "Books");
             }
 
             var user = await userManager.FindByNameAsync(model.UserName);
