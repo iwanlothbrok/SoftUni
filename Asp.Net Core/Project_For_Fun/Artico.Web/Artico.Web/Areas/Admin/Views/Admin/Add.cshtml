@@ -1,0 +1,13 @@
+﻿@using Artico.Core.Models
+@model ArticleFormModel
+
+@{
+    ViewData["Title"] = "Adding articles";
+    Layout = "_Layout";
+}
+
+<partial name="_ArticleFormPartialView" model="@Model" />
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,12 @@
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\bin\Debug\net6.0\Artico.Infrastrucutre.deps.json
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\bin\Debug\net6.0\Artico.Infrastrucutre.dll
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\bin\Debug\net6.0\Artico.Infrastrucutre.pdb
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\Artico.Infrastrucutre.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\Artico.Infrastrucutre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\Artico.Infrastrucutre.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\Artico.Infrastrucutre.AssemblyInfo.cs
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\Artico.Infrastrucutre.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\Artico.Infrastrucutre.dll
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\refint\Artico.Infrastrucutre.dll
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\Artico.Infrastrucutre.pdb
+C:\Users\cmi\source\repos\Artico.Web\Artico.Infrastructure\obj\Debug\net6.0\ref\Artico.Infrastrucutre.dll

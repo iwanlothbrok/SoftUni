@@ -1,0 +1,15 @@
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\bin\Debug\net6.0\Artico.Core.deps.json
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\bin\Debug\net6.0\Artico.Core.dll
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\bin\Debug\net6.0\Artico.Core.pdb
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\bin\Debug\net6.0\Artico.Infrastrucutre.dll
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\bin\Debug\net6.0\Artico.Infrastrucutre.pdb
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.csproj.AssemblyReference.cache
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.AssemblyInfoInputs.cache
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.AssemblyInfo.cs
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.csproj.CoreCompileInputs.cache
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.csproj.CopyComplete
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.dll
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\refint\Artico.Core.dll
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\Artico.Core.pdb
+C:\Users\cmi\source\repos\Artico.Web\Artico.Core\obj\Debug\net6.0\ref\Artico.Core.dll
