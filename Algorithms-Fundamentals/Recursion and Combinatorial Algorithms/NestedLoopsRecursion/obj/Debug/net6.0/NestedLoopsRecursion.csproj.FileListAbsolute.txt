@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.exe
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.deps.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.runtimeconfig.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\bin\Debug\net6.0\NestedLoopsRecursion.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.AssemblyInfo.cs
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\refint\NestedLoopsRecursion.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\NestedLoopsRecursion.genruntimeconfig.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\NestedLoopsRecursion\obj\Debug\net6.0\ref\NestedLoopsRecursion.dll
