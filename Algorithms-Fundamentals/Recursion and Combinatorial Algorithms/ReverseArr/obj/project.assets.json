@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\ReverseArr\\ReverseArr.csproj",
+      "projectUniqueName": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\ReverseArr\\ReverseArr.csproj",
       "projectName": "ReverseArr",
-      "projectPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\ReverseArr\\ReverseArr.csproj",
+      "projectPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\ReverseArr\\ReverseArr.csproj",
       "packagesPath": "C:\\Users\\cmi\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\ReverseArr\\obj\\",
+      "outputPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\ReverseArr\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

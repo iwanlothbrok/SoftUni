@@ -1,10 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Runtime.CompilerServices;
-using System.Security.Cryptography;
-using System.Transactions;
-using System.Xml.Linq;
-
-public class Program
+﻿public class Program
 {
     public static List<string> people;
     public static string[] outputPeople;
@@ -13,12 +7,18 @@ public class Program
     public static void Main()
     {
         people = Console.ReadLine().Split(", ").ToList();
+
         outputPeople = new string[people.Count];
         locked = new bool[people.Count];
 
-        var cmd = Console.ReadLine();
-        while (cmd != "generate")
+        while (true)
         {
+            var cmd = Console.ReadLine();
+
+            if (cmd == "generate")
+            {
+                break;
+            }
             var command = cmd.Split(" - ");
 
             var name = command[0];
@@ -28,9 +28,6 @@ public class Program
             locked[position] = true;
 
             people.Remove(name);
-
-
-            cmd = Console.ReadLine();
         }
 
         Permute(0);
@@ -40,7 +37,6 @@ public class Program
     {
         if (idx >= people.Count)
         {
-
             PrintPermute();
             return;
         }
@@ -69,7 +65,6 @@ public class Program
                 outputPeople[i] = people[idx++];
             }
         }
-
         Console.WriteLine(String.Join(", ", outputPeople));
     }
 
@@ -78,6 +73,5 @@ public class Program
         var temp = people[idx];
         people[idx] = people[i];
         people[i] = temp;
-
     }
 }

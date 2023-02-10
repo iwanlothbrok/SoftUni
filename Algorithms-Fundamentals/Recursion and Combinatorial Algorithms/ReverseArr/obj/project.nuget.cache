@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jhzma5HN0YkCNStHRs7iYyl9gUDVvWP4Dh+sbaJ9hAOErtKjCWptc6biQN9aZA/RiGcUrZBWFiZiZZvNLT54sw==",
+  "dgSpecHash": "vDEZdbNAeyztDjbFJ1tawMhzjszqtPvyDa5k9i4ceSDXpqzri9TOOsziiBJsb4bdeF4M+B29xCD1/hPrr9ob+g==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\ReverseArr\\ReverseArr.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\ReverseArr\\ReverseArr.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
     "C:\\Users\\cmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",

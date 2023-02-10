@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\Cinema\\Cinema.csproj": {}
+    "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\Cinema\\Cinema.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\Cinema\\Cinema.csproj": {
+    "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\Cinema\\Cinema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\Cinema\\Cinema.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\Cinema\\Cinema.csproj",
         "projectName": "Cinema",
-        "projectPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\Cinema\\Cinema.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\Cinema\\Cinema.csproj",
         "packagesPath": "C:\\Users\\cmi\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\Cinema\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\Cinema\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,3 +13,18 @@ C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\Reve
 C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\ReverseArr\obj\Debug\net6.0\ReverseArr.pdb
 C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\ReverseArr\obj\Debug\net6.0\ReverseArr.genruntimeconfig.cache
 C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\ReverseArr\ReverseArr\obj\Debug\net6.0\ref\ReverseArr.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\bin\Debug\net6.0\ReverseArr.exe
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\bin\Debug\net6.0\ReverseArr.deps.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\bin\Debug\net6.0\ReverseArr.runtimeconfig.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\bin\Debug\net6.0\ReverseArr.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\bin\Debug\net6.0\ReverseArr.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.AssemblyInfo.cs
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\refint\ReverseArr.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ReverseArr.genruntimeconfig.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Recursion and Combinatorial Algorithms\ReverseArr\obj\Debug\net6.0\ref\ReverseArr.dll

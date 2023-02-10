@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\NestedLoopsRecursion\\NestedLoopsRecursion.csproj",
+      "projectUniqueName": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\NestedLoopsRecursion\\NestedLoopsRecursion.csproj",
       "projectName": "NestedLoopsRecursion",
-      "projectPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\NestedLoopsRecursion\\NestedLoopsRecursion.csproj",
+      "projectPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\NestedLoopsRecursion\\NestedLoopsRecursion.csproj",
       "packagesPath": "C:\\Users\\cmi\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\NestedLoopsRecursion\\obj\\",
+      "outputPath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\NestedLoopsRecursion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmi\\AppData\\Roaming\\NuGet\\NuGet.Config",

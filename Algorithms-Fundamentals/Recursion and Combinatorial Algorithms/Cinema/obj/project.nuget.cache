@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUTg7OR18vzlUHbqxmvovX9+pThwoMWKZQt9QglIxZEwSkZC1BTfSHI9+98PxKL+ys67wvvieQZzvRlO9cbRSg==",
+  "dgSpecHash": "6mNONJuzDnCe986/xSdxMjpk66+j9KwniHUtun2+0VctIt/S0iqNrpQ+J3YT3oU35YNSfNClyeCuoGkya9+tZQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Combinatorial Problems\\ReverseArr\\Cinema\\Cinema.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni\\Algorithms-Fundamentals\\Recursion and Combinatorial Algorithms\\Cinema\\Cinema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
     "C:\\Users\\cmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
