@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.AssemblyInfo.cs
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\bin\Debug\net6.0\SortingSearch.exe
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\bin\Debug\net6.0\SortingSearch.deps.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\bin\Debug\net6.0\SortingSearch.runtimeconfig.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\bin\Debug\net6.0\SortingSearch.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\bin\Debug\net6.0\SortingSearch.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\refint\SortingSearch.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\SortingSearch.genruntimeconfig.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\BinarySearch\SortingSearch\obj\Debug\net6.0\ref\SortingSearch.dll
