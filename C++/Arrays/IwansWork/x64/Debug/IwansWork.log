@@ -1,0 +1,3 @@
+﻿  IwansWork.cpp
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\C++\Arrays\IwansWork\IwansWork.cpp(55): warning C4715: 'AreEqual': not all control paths return a value
+  IwansWork.vcxproj -> C:\Users\JupiterSoft\Documents\GitHub\SoftUni\C++\Arrays\x64\Debug\01.CompareArrays.exe

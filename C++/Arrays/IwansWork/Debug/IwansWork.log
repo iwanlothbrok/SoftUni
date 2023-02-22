@@ -1,0 +1,3 @@
+﻿  IwansWork.cpp
+C:\Users\Jupiter\source\repos\IwansWork\IwansWork\IwansWork.cpp(55): warning C4715: 'AreEqual': not all control paths return a value
+  IwansWork.vcxproj -> C:\Users\Jupiter\source\repos\IwansWork\Debug\IwansWork.exe
