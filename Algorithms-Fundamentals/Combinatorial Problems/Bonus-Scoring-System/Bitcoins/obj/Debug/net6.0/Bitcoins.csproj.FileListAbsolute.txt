@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\bin\Debug\net6.0\Bitcoins.exe
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\bin\Debug\net6.0\Bitcoins.deps.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\bin\Debug\net6.0\Bitcoins.runtimeconfig.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\bin\Debug\net6.0\Bitcoins.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\bin\Debug\net6.0\Bitcoins.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.AssemblyInfo.cs
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\refint\Bitcoins.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\Bitcoins.genruntimeconfig.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bitcoins\obj\Debug\net6.0\ref\Bitcoins.dll

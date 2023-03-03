@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\bin\Debug\net6.0\Bonus-Scoring-System.exe
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\bin\Debug\net6.0\Bonus-Scoring-System.deps.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\bin\Debug\net6.0\Bonus-Scoring-System.runtimeconfig.json
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\bin\Debug\net6.0\Bonus-Scoring-System.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\bin\Debug\net6.0\Bonus-Scoring-System.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.AssemblyInfo.cs
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\refint\Bonus-Scoring-System.dll
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.pdb
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\Bonus-Scoring-System.genruntimeconfig.cache
+C:\GitHub\SoftUni\Algorithms-Fundamentals\Combinatorial Problems\Bonus-Scoring-System\Bonus-Scoring-System\obj\Debug\net6.0\ref\Bonus-Scoring-System.dll
