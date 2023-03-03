@@ -1,0 +1,21 @@
+-- 16 Distinct Job Titles
+SELECT DISTINCT JobTitle 
+FROM Employees
+
+-- 17 Find First 10 Started Projects
+SELECT TOP(10) *
+FROM Projects
+ORDER BY StartDate, Name
+
+-- 18 Last 7 Hired Employees
+SELECT TOP(7) FirstName,LastName,HireDate 
+FROM Employees
+ORDER BY HireDate
+DESC
+
+-- 19 Increase Salaries
+
+UPDATE Employees
+	SET Salary+= Salary * 0.12
+WHERE DepartmentID IN(1,2,4,11)
+

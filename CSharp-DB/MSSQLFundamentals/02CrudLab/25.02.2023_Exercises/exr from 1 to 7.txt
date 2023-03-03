@@ -1,0 +1,30 @@
+-- 1 
+SELECT * FROM Departments
+
+-- 2 
+SELECT NAME
+FROM Departments
+
+-- 3
+SELECT FirstName,LastName,Salary
+FROM Employees
+
+-- 4 
+SELECT FirstName,MiddleName,LastName
+FROM Employees
+
+-- 5
+SELECT FirstName + '.' + LastName + '@gmail.bg' 
+    AS 'Full Email Address' 
+  FROM Employees 
+
+-- 6
+	-- distinct to prevent from getting same salary 
+	SELECT DISTINCT Salary
+	FROM Employees
+
+-- 7
+SELECT * 
+FROM Employees
+WHERE JobTitle = 'Sales Representative'
+

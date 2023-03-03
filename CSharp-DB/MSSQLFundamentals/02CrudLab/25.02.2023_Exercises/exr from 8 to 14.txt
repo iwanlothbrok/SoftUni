@@ -1,0 +1,41 @@
+-- 8 Find Names of All Employees by Salary in Range
+SELECT *
+FROM Employees
+WHERE Salary >= 20000 
+AND Salary <= 30000
+
+-- 9 Find Names of All Employees
+SELECT FirstName + ' ' + LastName 
+AS 'Full Name'
+FROM Employees
+ WHERE Salary IN (25000, 14000, 12500, 23600) 
+
+ -- 10 Find All Employees Without a Manager
+ SELECT * 
+ FROM Employees
+ -- IS AND = ARE NOT THE SAME IN SQL
+ WHERE ManagerID IS NULL
+
+ -- 11 Find All Employees with a Salary More Than 50000
+  SELECT * 
+ FROM Employees
+ WHERE Salary > 50000
+ ORDER BY Salary
+	DESC
+
+-- 12 Find 5 Best Paid Employees.
+SELECT TOP(5) * 
+ FROM Employees
+ ORDER BY Salary
+	DESC
+
+-- 13 Find All Employees Except Marketing
+SELECT * 
+FROM Employees
+WHERE DepartmentID != 4
+
+-- 14 Sort Employees Table
+SELECT * 
+FROM Employees
+ORDER BY Salary DESC, FirstName, LastName DESC, MiddleName
+
