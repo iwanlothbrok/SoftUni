@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7E4lrB0WIBvcRubvvdSMqGoPQ3pY7pFz5QhDgI7qg89od1kFwzc26ASFHCZEgII1qVioZAbtSH95r8jC27h9Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium_Exercise\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JupiterSoft\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
+    "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
