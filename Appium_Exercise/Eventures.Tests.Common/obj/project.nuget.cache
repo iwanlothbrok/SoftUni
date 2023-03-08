@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "90gfMB1RmLVWLBEgN+Tv7hi1825GzxrTO/v8HNM8shv9g2tvh+S41SSynQu0vFPGYsbQi75P2KQMgcZrALpZLw==",
+  "dgSpecHash": "dMEgGuGXrxGgCk1OhJD4xQ0riAul0yZOaxypzrKP2g/RROBDxZG3R3/tMwDUO4wPH6gVLkeRvM6N4oTtJ5M+cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium_Exercise\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj",
   "expectedPackageFiles": [
@@ -103,10 +103,7 @@
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\JupiterSoft\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\JupiterSoft\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
