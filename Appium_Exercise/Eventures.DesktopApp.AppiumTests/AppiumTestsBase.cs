@@ -10,13 +10,11 @@ using OpenQA.Selenium.Appium;
 using OpenQA.Selenium.Appium.Service;
 using OpenQA.Selenium.Appium.Windows;
 using OpenQA.Selenium.Support.UI;
-using Microsoft.OpenApi.Models;
-using System.Net.WebSockets;
 
 namespace Eventures.DesktopApp.AppiumTests
 {
-	public class AppiumTestsBase
-	{
+    public class AppiumTestsBase
+    {
 		protected TestDb testDb;
 		protected ApplicationDbContext dbContext;
 		private TestEventuresApp<Startup> testEventuresApp;
@@ -61,6 +59,15 @@ namespace Eventures.DesktopApp.AppiumTests
 		[OneTimeTearDown]
 		public void OneTimeTearDownBase()
 		{
+			//closing and quiting the app
+			driver.CloseApp();
+			driver.Quit();
+
+			//dispose 
+			appiumLocalService.Dispose();
+
+			//dispose the api
+			this.testEventuresApp.Dispose();
 		}
 	}
 }
