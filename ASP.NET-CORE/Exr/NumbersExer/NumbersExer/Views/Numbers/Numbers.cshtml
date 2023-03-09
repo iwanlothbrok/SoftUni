@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Random Number Generator</title>
+</head>
+<body>
+	<h1>Random Number Generator</h1>
+	<div id="result"></div>
+	<button id="addButton">Add Number</button>
+	<button id="clearButton">Clear Numbers</button>
+	<button id="sumButton">Sum Numbers</button>
+	<p>Sum: <span id="sum"></span></p>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+	$(document).ready(function () {
+		$('#addButton').click(function () {
+			$.ajax({
+				url: '/Numbers/AddNumber',
+				type: 'POST',
+				success: function (data) {
+					$('#result').append('<p>' + data + '</p>');
+				},
+				error: function () {
+					alert('An error occurred while adding the number.');
+				}
+			});
+		});
+
+		$('#clearButton').click(function () {
+			$.ajax({
+				url: '/Numbers/ClearNumbers',
+				type: 'POST',
+				success: function (data) {
+					// Refresh the page to update the list of numbers
+					location.reload();
+				},
+				error: function () {
+					alert('An error occurred while clearing the numbers.');
+				}
+			});
+		});
+
+		$('#sumButton').click(function () {
+			$.ajax({
+				url: '/Numbers/SumNumbers',
+				type: 'POST',
+				success: function (data) {
+					$('#sum').text(data);
+				},
+				error: function () {
+					alert('An error occurred while calculating the sum.');
+				}
+			});
+		});
+	});
+</script>
+</html>
