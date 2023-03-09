@@ -5,51 +5,63 @@
 </head>
 <body>
 	<h1>Random Number Generator</h1>
-	<div id="result"></div>
-	<button id="addButton">Add Number</button>
-	<button id="clearButton">Clear Numbers</button>
-	<button id="sumButton">Sum Numbers</button>
-	<p>Sum: <span id="sum"></span></p>
+	<div>
+		<button id="add-number">Add Number</button>
+		<button id="sum-numbers">Sum Numbers</button>
+		<button id="clear-numbers">Clear Numbers</button>
+	</div>
+	<div>
+		<ul id="number-list"></ul>
+		<p>Sum of numbers: <span id="result"></span></p>
+	</div>
+
+
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 	$(document).ready(function () {
-		$('#addButton').click(function () {
+		$("#add-number").click(function () {
 			$.ajax({
-				url: '/Numbers/AddNumber',
-				type: 'POST',
+				url: "/Numbers/AddNumber",
+				type: "GET",
+				dataType: "json",
 				success: function (data) {
-					$('#result').append('<p>' + data + '</p>');
-				},
-				error: function () {
-					alert('An error occurred while adding the number.');
+					$("#number-list").append("<li>" + data + "</li>");
 				}
 			});
 		});
 
-		$('#clearButton').click(function () {
-			$.ajax({
-				url: '/Numbers/ClearNumbers',
-				type: 'POST',
-				success: function (data) {
-					// Refresh the page to update the list of numbers
-					location.reload();
-				},
-				error: function () {
-					alert('An error occurred while clearing the numbers.');
-				}
+		$("#sum-numbers").click(function () {
+			var numbers = [];
+			$("#number-list li").each(function () {
+				numbers.push(parseInt($(this).text()));
 			});
+
+			if (numbers.length > 0) {
+				$.ajax({
+					url: "/Numbers/SumNumbers",
+					type: "POST",
+					data: JSON.stringify(numbers),
+					contentType: "application/json; charset=utf-8",
+					dataType: "json",
+					success: function (data) {
+						$("#result").text(data.sum);
+					},
+					error: function (jqXHR, textStatus, errorThrown) {
+						console.log(jqXHR.responseText);
+					}
+				});
+			}
 		});
 
-		$('#sumButton').click(function () {
+		$("#clear-numbers").click(function () {
 			$.ajax({
-				url: '/Numbers/SumNumbers',
-				type: 'POST',
+				url: "/Numbers/ClearNumbers",
+				type: "GET",
+				dataType: "json",
 				success: function (data) {
-					$('#sum').text(data);
-				},
-				error: function () {
-					alert('An error occurred while calculating the sum.');
+					$("#number-list").empty();
+					$("#result").text("");
 				}
 			});
 		});
