@@ -1,6 +1,6 @@
 using System;
 using System.Linq;
-
+using Microsoft.VisualStudio.TestPlatform.ObjectModel;
 using NUnit.Framework;
 
 namespace Eventures.DesktopApp.AppiumTests
@@ -285,6 +285,40 @@ namespace Eventures.DesktopApp.AppiumTests
 			var eventPlace = "Beach";
 			var placeField = driver.FindElementByAccessibilityId("textBoxPlace");
 			placeField.SendKeys(eventPlace);
+
+			// up arrow 
+			var upBtns = driver.FindElementsByName("Up");
+
+			//tickets
+			var ticketsUpBtn = upBtns[1];
+			ticketsUpBtn.Click();
+
+
+			// price
+			var priceUpBtn = upBtns[0];
+			ticketsUpBtn.Click();
+			ticketsUpBtn.Click();
+
+
+			// clicking create 
+			var createConfirmationBtn = driver.FindElementByAccessibilityId("buttonCreateConfirm");
+			createConfirmationBtn.Click();
+
+			// wait to increase 
+			var localMsgAppear = this.wait.Until(s => driver.FindElementByXPath("/Window/StatusBar/Text")
+				.Text.Contains($"Load succsesful: {eventsCountBefore + 1} events loaded"));
+			Assert.IsTrue(localMsgAppear);
+
+			// create new event 
+			string pageSource = driver.PageSource;
+			Assert.That(!pageSource.Contains(CreateWindowNewEvent));
+
+			Assert.That(!pageSource.Contains(EventBoardWindowName));
+
+			Assert.That(pageSource.Contains(eventName));
+			Assert.That(pageSource.Contains(eventPlace));
+			Assert.That(pageSource.Contains(this.username));
+
 		}
 
 		[Test]

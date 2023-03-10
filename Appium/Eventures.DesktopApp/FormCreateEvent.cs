@@ -170,5 +170,10 @@ namespace Eventures.DesktopApp
 
             return errors.ToString();
         }
-    }
+
+		private void numboxTickets_ValueChanged(object sender, EventArgs e)
+		{
+
+		}
+	}
 }
