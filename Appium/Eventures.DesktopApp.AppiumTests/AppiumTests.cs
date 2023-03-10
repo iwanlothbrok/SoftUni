@@ -230,11 +230,61 @@ namespace Eventures.DesktopApp.AppiumTests
 		[Test, Order(7)]
 		public void Test_Login()
 		{
+			// login 
+			var loginBtn = driver.FindElementByAccessibilityId("buttonLogin");
+			loginBtn.Click();
+
+			//user name
+			var userName = driver.FindElementByAccessibilityId("textBoxUsername");
+			userName.Clear();
+			userName.SendKeys("User");
+
+			//pass
+			var passwordField = driver.FindElementByAccessibilityId("textBoxPassword");
+			passwordField.Clear();
+			passwordField.SendKeys(this.password);
+
+			// confirm login 
+			var loginConfirmBtn = driver.FindElementByAccessibilityId("buttonLoginConfirm");
+			loginConfirmBtn.Click();
+
+			// check if its right 
+			Assert.True(driver.PageSource.Contains(EventBoardWindowName));
+
+
+			var statusTextBox = driver.FindElementByXPath("/Window/StatusBar/Text");
+			var messageAppears = this.wait
+				//check this message 
+				.Until(s => statusTextBox.Text.Contains("Connected to the Web API."));
+			Assert.IsTrue(messageAppears);
+
+			var eventsInDb = this.dbContext.Events.Count();
+
+			Assert.AreEqual($"Load succsessful: {eventsInDb} events loaded.", statusTextBox.Text);
 		}
 
 		[Test]
 		public void Test_CreateEvent()
 		{
+			// getting the events 
+			var eventsCountBefore = this.dbContext.Events.Count();
+
+			// create event
+			var createEvent = driver.FindElementByAccessibilityId("buttonCreate");
+			createEvent.Click();
+
+			Assert.That(driver.PageSource.Contains(CreateWindowNewEvent));
+
+			// fill event name
+			var eventName = "Fun Event" + DateTime.Now.Ticks;
+			var nameField = driver.FindElementByAccessibilityId("textBoxName");
+			nameField.Clear();
+			nameField.SendKeys(eventName);
+
+			// fill event place
+			var eventPlace = "Beach";
+			var placeField = driver.FindElementByAccessibilityId("textBoxPlace");
+			placeField.SendKeys(eventPlace);
 		}
 
 		[Test]

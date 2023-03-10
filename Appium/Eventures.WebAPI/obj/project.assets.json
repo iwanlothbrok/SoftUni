@@ -5916,11 +5916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.WebAPI\\Eventures.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.WebAPI\\Eventures.WebAPI.csproj",
       "projectName": "Eventures.WebAPI",
-      "projectPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.WebAPI\\Eventures.WebAPI.csproj",
+      "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.WebAPI\\Eventures.WebAPI.csproj",
       "packagesPath": "C:\\Users\\JupiterSoft\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JupiterSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5937,8 +5937,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Data\\Eventures.Data.csproj": {
-              "projectPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Data\\Eventures.Data.csproj"
+            "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj": {
+              "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj"
             }
           }
         }

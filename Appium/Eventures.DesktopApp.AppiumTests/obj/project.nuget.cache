@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9fqL/hH+j1F3LSp4I64J/F5vCGR3PWcoiyiWu0tNX8wj1qdACyJTUhg6fuRmASpz9Qoq7rCIjAdykoAFnmp+6A==",
+  "dgSpecHash": "GYvHYt+EfN53kGmfHwTpuNc7LM4Twdgq6uKW2RwPmeNdJRAYrkQK988Fu6lgkK06oL9PMc6viBwfCxh8aQ57dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.DesktopApp.AppiumTests\\Eventures.DesktopApp.AppiumTests.csproj",
+  "projectFilePath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp.AppiumTests\\Eventures.DesktopApp.AppiumTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\appium.webdriver\\4.3.1\\appium.webdriver.4.3.1.nupkg.sha512",
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",

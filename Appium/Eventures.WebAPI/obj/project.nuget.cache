@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f6Z2lZ0qKsziBGBSdh3fD8Vgtd8qSxQ86uDojVmNeahEcYw89TBP8A+lzP7M8J3J/DbAd+Wrce55PNxTtjkeFQ==",
+  "dgSpecHash": "2pM3AIcT+rq+D23NLm3YhEmrbBCPZpMrXscmGpOKLDHvI0gKVUfJLRiyEblSZmAz/TPcARJZCdISFD24TUV6CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.WebAPI\\Eventures.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.WebAPI\\Eventures.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.9\\microsoft.aspnetcore.authentication.jwtbearer.5.0.9.nupkg.sha512",
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",

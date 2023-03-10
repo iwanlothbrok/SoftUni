@@ -6221,11 +6221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Data\\Eventures.Data.csproj",
+      "projectUniqueName": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj",
       "projectName": "Eventures.Data",
-      "projectPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Data\\Eventures.Data.csproj",
+      "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj",
       "packagesPath": "C:\\Users\\JupiterSoft\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Data\\obj\\",
+      "outputPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JupiterSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",

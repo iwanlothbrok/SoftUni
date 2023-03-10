@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WPDIsZZ6PbaaZDlPcNuhwyGuaB3NYTxqXFxvGQaD0kdeWcn4HV/bzsaUb09HfRq95NcmwDDeiEjfbWFVIpPZWQ==",
+  "dgSpecHash": "SCr1Pt1RopInKhbWqloAOqxho+CjUeCnGUWWCLGNAuH3weW2ibEtY3P2eThB7YVM9yRznjZj4Q50VAGcqZHVmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj",
+  "projectFilePath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.9\\microsoft.aspnetcore.cryptography.keyderivation.5.0.9.nupkg.sha512",

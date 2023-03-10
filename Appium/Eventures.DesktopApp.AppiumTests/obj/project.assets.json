@@ -7789,11 +7789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.DesktopApp.AppiumTests\\Eventures.DesktopApp.AppiumTests.csproj",
+      "projectUniqueName": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp.AppiumTests\\Eventures.DesktopApp.AppiumTests.csproj",
       "projectName": "Eventures.DesktopApp.AppiumTests",
-      "projectPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.DesktopApp.AppiumTests\\Eventures.DesktopApp.AppiumTests.csproj",
+      "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp.AppiumTests\\Eventures.DesktopApp.AppiumTests.csproj",
       "packagesPath": "C:\\Users\\JupiterSoft\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.DesktopApp.AppiumTests\\obj\\",
+      "outputPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp.AppiumTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JupiterSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7810,11 +7810,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj": {
-              "projectPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj"
+            "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj": {
+              "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj"
             },
-            "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.WebAPI\\Eventures.WebAPI.csproj": {
-              "projectPath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.WebAPI\\Eventures.WebAPI.csproj"
+            "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.WebAPI\\Eventures.WebAPI.csproj": {
+              "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.WebAPI\\Eventures.WebAPI.csproj"
             }
           }
         }

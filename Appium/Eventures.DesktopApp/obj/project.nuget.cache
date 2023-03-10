@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSnM4tXJkzbmTbObI6joKvAUYU85PehInNMJFXLmqyaTecvqo2rNjRUHov0jOgtAqUQvow/siX94TAwtoUlmDg==",
+  "dgSpecHash": "ddlRcUnwQ6GZNdba2+hl73tK45parjOZstpIeuOHMLMdrDlHRLpLg2sT4DEHw83LeSbK1AjhixkQ+HbN8xevKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj",
+  "projectFilePath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AWb93xEQ3sxr1nJvzfh+IoTufqt2PRwemEiX7djjyF/jAepmr2f69889fIgvZLijTiKB4uS0kwG29KrYbtjw3w==",
+  "dgSpecHash": "82PrYqEmKn3CF3ddOR2/wcdEjue3XB140C1TF02dOECut825F1Oc3fvJyrACWaQZXc+X8eqdvASceO30OyXZpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JupiterSoft\\Desktop\\New folder (2)\\11.Appium-Desktop-Project-Based-Exercise-Skeleton\\Eventures.Data\\Eventures.Data.csproj",
+  "projectFilePath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JupiterSoft\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
