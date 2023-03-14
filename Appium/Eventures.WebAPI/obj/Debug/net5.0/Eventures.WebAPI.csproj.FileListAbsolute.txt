@@ -70,3 +70,147 @@ C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exer
 C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exercise-Skeleton\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.pdb
 C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exercise-Skeleton\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.genruntimeconfig.cache
 C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exercise-Skeleton\Eventures.WebAPI\obj\Debug\net5.0\ref\Eventures.WebAPI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.exe
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.deps.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.runtimeconfig.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.runtimeconfig.dev.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.xml
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.Data.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\bin\Debug\net5.0\Eventures.Data.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.csproj.AssemblyReference.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.AssemblyInfoInputs.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.AssemblyInfo.cs
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Eventures.WebAPI.styles.css
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\Eventures.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\Eventures.WebAPI.StaticWebAssets.Pack.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.Eventures.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.Eventures.WebAPI.props
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Eventures.WebAPI.props
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Eventures.WebAPI.props
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.csproj.CopyComplete
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\refint\Eventures.WebAPI.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.xml
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.genruntimeconfig.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.WebAPI\obj\Debug\net5.0\ref\Eventures.WebAPI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.exe
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.Data.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.deps.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.runtimeconfig.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.runtimeconfig.dev.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.WebAPI.xml
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\bin\Debug\net5.0\Eventures.Data.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.AssemblyInfo.cs
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\scopedcss\bundle\Eventures.WebAPI.styles.css
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\Eventures.WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\Eventures.WebAPI.StaticWebAssets.Pack.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.Eventures.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.Eventures.WebAPI.props
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Eventures.WebAPI.props
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Eventures.WebAPI.props
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.csproj.CopyComplete
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\refint\Eventures.WebAPI.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.xml
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\Eventures.WebAPI.genruntimeconfig.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.WebAPI\obj\Debug\net5.0\ref\Eventures.WebAPI.dll

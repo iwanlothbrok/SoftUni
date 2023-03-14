@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj": {}
+    "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj": {
+    "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Data\\Eventures.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Data\\Eventures.Data.csproj",
         "projectName": "Eventures.Data",
-        "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj",
-        "packagesPath": "C:\\Users\\JupiterSoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\obj\\",
+        "projectPath": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Data\\Eventures.Data.csproj",
+        "packagesPath": "C:\\Users\\Jupiter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\JupiterSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Jupiter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -71,22 +76,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj": {
+    "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj",
         "projectName": "Eventures.Tests.Common",
-        "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj",
-        "packagesPath": "C:\\Users\\JupiterSoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Tests.Common\\obj\\",
+        "projectPath": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Tests.Common\\Eventures.Tests.Common.csproj",
+        "packagesPath": "C:\\Users\\Jupiter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Tests.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\JupiterSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Jupiter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -99,8 +109,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj": {
-                "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.Data\\Eventures.Data.csproj"
+              "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Data\\Eventures.Data.csproj": {
+                "projectPath": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.Data\\Eventures.Data.csproj"
               }
             }
           }
@@ -139,7 +149,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

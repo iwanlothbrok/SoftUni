@@ -13,3 +13,33 @@ C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exer
 C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exercise-Skeleton\Eventures.Data\obj\Debug\net5.0\Eventures.Data.pdb
 C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exercise-Skeleton\Eventures.Data\obj\Debug\net5.0\Eventures.Data.genruntimeconfig.cache
 C:\Users\JupiterSoft\Desktop\New folder (2)\11.Appium-Desktop-Project-Based-Exercise-Skeleton\Eventures.Data\obj\Debug\net5.0\ref\Eventures.Data.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\bin\Debug\net5.0\Eventures.Data.deps.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\bin\Debug\net5.0\Eventures.Data.runtimeconfig.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\bin\Debug\net5.0\Eventures.Data.runtimeconfig.dev.json
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\bin\Debug\net5.0\Eventures.Data.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\bin\Debug\net5.0\Eventures.Data.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.csproj.AssemblyReference.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.AssemblyInfoInputs.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.AssemblyInfo.cs
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.csproj.CoreCompileInputs.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\refint\Eventures.Data.dll
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.pdb
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\Eventures.Data.genruntimeconfig.cache
+C:\Users\JupiterSoft\Documents\GitHub\SoftUni\Appium\Eventures.Data\obj\Debug\net5.0\ref\Eventures.Data.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\bin\Debug\net5.0\Eventures.Data.deps.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\bin\Debug\net5.0\Eventures.Data.runtimeconfig.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\bin\Debug\net5.0\Eventures.Data.runtimeconfig.dev.json
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\bin\Debug\net5.0\Eventures.Data.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\bin\Debug\net5.0\Eventures.Data.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.csproj.AssemblyReference.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.AssemblyInfoInputs.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.AssemblyInfo.cs
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\refint\Eventures.Data.dll
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.pdb
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\Eventures.Data.genruntimeconfig.cache
+C:\Users\Jupiter\Desktop\New folder (2)\Eventures.Data\obj\Debug\net5.0\ref\Eventures.Data.dll

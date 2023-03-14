@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj": {}
+    "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj": {
+    "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj",
+        "projectUniqueName": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj",
         "projectName": "Eventures.DesktopApp",
-        "projectPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj",
-        "packagesPath": "C:\\Users\\JupiterSoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JupiterSoft\\Documents\\GitHub\\SoftUni\\Appium\\Eventures.DesktopApp\\obj\\",
+        "projectPath": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.DesktopApp\\Eventures.DesktopApp.csproj",
+        "packagesPath": "C:\\Users\\Jupiter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jupiter\\Desktop\\New folder (2)\\Eventures.DesktopApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\JupiterSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Jupiter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows"
@@ -64,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
