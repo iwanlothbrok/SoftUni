@@ -35,38 +35,54 @@ function attachEvents() {
 
         let mainDivElement = document.getElementById('current');
         let newDivElement = document.createElement('div');
+        newDivElement.className = 'forecast';
 
         let firstMainSpan = document.createElement('span');
         let secondMainSpan = document.createElement('span');
 
-        newDivElement.appendChild(secondMainSpan);
         
         switch(currentObj.condition){
             case 'Sunny':
-            firstMainSpan.value = '&#x2600;'
+            firstMainSpan.textContent = '☀'
             break; 
             case 'Partly sunny':
-            firstMainSpan.value = '&#x26C5;'
+            firstMainSpan.textContent = '⛅'
             break; 
             case 'Overcast':
-            firstMainSpan.value = '&#x2601;'
+            firstMainSpan.textContent = '☁'
             break; 
             case 'Rain':
-            firstMainSpan.value = '&#x2614;'
+            firstMainSpan.textContent = '☂'
             break; 
             case 'Degrees':
-            firstMainSpan.value = '&#176;'
+            firstMainSpan.textContent = '°'
             break; 
          }
-         
+         firstMainSpan.className = 'condition symbol';
+         secondMainSpan.className = 'condition';
+
          mainDivElement.appendChild(newDivElement);
          newDivElement.appendChild(firstMainSpan);
             
-        console.log(forecast);
-        $('#forecast').show();
 
-        //$('#current').find('label').text(locationName);
-        //$('#upcoming').find('label').text(locationName);
+         let infoSpansOne =  document.createElement('span');
+         infoSpansOne.className = 'forecast-data';
+         let infoSpansTwo =  document.createElement('span');
+         infoSpansTwo.className = 'forecast-data';
+         let infoSpansThree =  document.createElement('span');
+         infoSpansThree.className = 'forecast-data';
+
+         infoSpansOne.textContent =locationName;
+         infoSpansTwo.textContent = currentObj.low + '°' + '/' + currentObj.high + '°';
+         infoSpansThree.textContent = currentObj.condition;
+         
+         secondMainSpan.appendChild(infoSpansOne);
+         secondMainSpan.appendChild(infoSpansTwo);
+         secondMainSpan.appendChild(infoSpansThree);
+
+         newDivElement.appendChild(secondMainSpan);
+
+        $('#forecast').show();
     }
 }
 
